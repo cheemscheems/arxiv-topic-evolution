@@ -1,0 +1,28 @@
+# Data
+data/raw/*
+data/processed/*
+data/results/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/results/.gitkeep
+!data/results/topic_info_*.csv
+!data/results/topic_keywords_*.csv
+!data/results/macro_topic_assignments.csv
+!data/results/change_points.csv
+!data/results/cross_tier_trends.csv
+!data/results/topic_evolution.csv
+
+# Outputs
+analysis_output/
+!outputs/sample/
+logs/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE
+.vscode/
+.idea/

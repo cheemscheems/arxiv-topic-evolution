@@ -1,0 +1,241 @@
+project_name: arxiv_topic_mining
+start_date: '1998-06-01'
+end_date: '2026-05-31'
+categories:
+- cs.AI
+- cs.CL
+- cs.LG
+- cs.CV
+sample_per_group: 400
+random_seed: 42
+parallel_workers: 48
+arxiv:
+  base_url: https://export.arxiv.org/api/query
+  max_results_per_request: 100
+  max_fetch_per_query: 2000
+  sleep_seconds: 5
+  max_retries: 5
+text:
+  use_title: true
+  use_abstract: true
+embedding:
+  model_name: all-MiniLM-L6-v2
+  batch_size: 256
+bertopic:
+  min_topic_size: 30
+  nr_topics: null
+  calculate_probabilities: false
+  umap:
+    n_neighbors: 8
+    n_components: 5
+    min_dist: 0.0
+    metric: cosine
+  hdbscan:
+    min_cluster_size: 30
+    min_samples: 10
+  vectorizer:
+    stop_words: english
+    ngram_range:
+    - 1
+    - 2
+    min_df: 2
+tiers:
+  T1_fine:
+    label: 2023-2026
+    start: '2023-06-01'
+    end: '2026-05-31'
+    group_by: month
+    sample_per_group: 400
+  T2_medium:
+    label: 2020-2023
+    start: '2020-06-01'
+    end: '2023-05-31'
+    group_by: month
+    sample_per_group: 400
+  T3_coarse:
+    label: 2016-2020
+    start: '2016-06-01'
+    end: '2020-05-31'
+    group_by: year
+    sample_per_group: 1500
+  T4_historic:
+    label: 1998-2016
+    start: '1998-06-01'
+    end: '2016-05-31'
+    group_by: year
+    sample_per_group: 5000
+eras:
+  early:
+  - 2000
+  - 2010
+  late:
+  - 2020
+  - 2025
+  cv_eras:
+  - - 2016-2019
+    - '2016-06-01'
+    - '2019-12-31'
+  - - 2020-2022
+    - '2020-01-01'
+    - '2022-12-31'
+  - - 2023-2026
+    - '2023-01-01'
+    - '2026-05-31'
+jaccard:
+  umbrella_terms:
+  - llm
+  - llms
+  - transformer
+  - transformers
+  - deep learning
+  - neural network
+  - neural networks
+  - attention
+  - attention mechanism
+  - large language model
+  - language model
+  - language models
+  - machine learning
+  - deep neural
+  - deep neural network
+  - foundation model
+  - foundation models
+  - pretrained
+  - pre-trained
+  - fine-tuned
+  - finetuned
+  - gpt
+  - bert
+  k_values:
+  - 20
+  - 50
+  - 100
+  - 200
+  top_n_keywords: 50
+granger:
+  max_lag: 4
+  fdr_alpha: 0.05
+burst:
+  min_duration_months: 3
+  sigma_threshold: 2.0
+  target_terms:
+  - deep learning
+  - neural network
+  - transformer
+  - attention
+  - reinforcement learning
+  - gan
+  - bert
+  - gpt
+  - llm
+  - large language model
+  - diffusion
+  - graph neural
+  - federated learning
+  - contrastive learning
+  - self-supervised
+  - vision transformer
+  - stable diffusion
+  - chatgpt
+  - agent
+  - rag
+  - retrieval augmented
+  - prompt
+  - chain of thought
+  - rlhf
+  - lora
+  - quantization
+paradigms:
+  Neural Network:
+    terms:
+    - neural network
+    - neural networks
+    - deep learning
+    - deep neural
+  SVM:
+    terms:
+    - support vector
+    - svm
+    - kernel method
+  Graphical Model:
+    terms:
+    - graphical model
+    - bayesian network
+    - markov random
+  Deep Learning:
+    terms:
+    - deep learning
+    - deep neural
+    - cnn
+    - convolutional neural
+  Reinforcement Learning:
+    terms:
+    - reinforcement learning
+    - deep reinforcement
+    - dqn
+    - policy gradient
+  GAN:
+    terms:
+    - gan
+    - generative adversarial
+    - adversarial network
+  Transformer:
+    terms:
+    - transformer
+    - self-attention
+    - attention mechanism
+  BERT:
+    terms:
+    - bert
+    - pretrained language
+    - fine-tun
+  Graph Neural Network:
+    terms:
+    - graph neural
+    - gnn
+    - graph convolution
+    - message passing
+  Diffusion:
+    terms:
+    - diffusion model
+    - denoising diffusion
+    - ddpm
+    - score-based
+  LLM:
+    terms:
+    - large language model
+    - llm
+    - gpt
+    - language model
+first_appearance_threshold: 0.001
+pelt:
+  penalty: 3
+  jump: 3
+  min_size: 6
+  sensitivity_penalties:
+  - 1
+  - 2
+  - 3
+  - 5
+  - 10
+synthetic_control:
+  pre_period:
+  - '2020-06-01'
+  - '2022-10-31'
+  post_period:
+  - '2022-11-01'
+  - '2026-05-31'
+  treatment_event: ChatGPT release (2022-11)
+cvpr:
+  treatment_category: cs.CV
+  control_category: cs.AI
+  years:
+  - 2019
+  - 2020
+  - 2021
+  - 2022
+  - 2023
+  - 2024
+  - 2025
+  feb_month: '02'
+  mar_month: '03'

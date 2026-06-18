@@ -1,0 +1,930 @@
+﻿tier,topic_id,paper_count,macro_id,top5_kw,tier_label
+T1_fine,0,1333,12,"policy, rl, reinforcement learning, reinforcement, offline",2023-2026
+T1_fine,1,1018,1,"clinical, medical, patient, biomedical, healthcare",2023-2026
+T1_fine,2,709,1,"molecular, protein, drug, chemical, molecules",2023-2026
+T1_fine,3,666,4,"equations, neural, differential equations, pdes, differential",2023-2026
+T1_fine,4,612,0,"editing, image, texttoimage, style, diffusion",2023-2026
+T1_fine,5,585,3,"speech, asr, speech recognition, automatic speech, spoken",2023-2026
+T1_fine,6,582,12,"agents, agent, tool, multiagent, agentic",2023-2026
+T1_fine,7,484,3,"point, 3d, point cloud, cloud, lidar",2023-2026
+T1_fine,8,479,5,"gradient, networks, descent, neural, sgd",2023-2026
+T1_fine,9,476,3,"emotion, emotional, emotion recognition, emotions, recognition",2023-2026
+T1_fine,10,467,3,"driving, traffic, autonomous, autonomous driving, vehicles",2023-2026
+T1_fine,11,396,3,"rendering, gaussian, splatting, gaussian splatting, 3d",2023-2026
+T1_fine,12,380,12,"students, education, educational, student, knowledge tracing",2023-2026
+T1_fine,13,373,12,"causal, causal discovery, variables, discovery, causal inference",2023-2026
+T1_fine,14,363,3,"segmentation, medical, medical image, image segmentation, tumor",2023-2026
+T1_fine,15,339,6,"weather, forecasting, climate, precipitation, flood",2023-2026
+T1_fine,16,330,0,"rag, retrieval, retrievalaugmented, retrievalaugmented generation, generation rag",2023-2026
+T1_fine,17,326,5,"regret, bandit, bandits, arm, online",2023-2026
+T1_fine,18,322,14,"federated, federated learning, clients, fl, client",2023-2026
+T1_fine,19,322,3,"reasoning, visual, multimodal, visual reasoning, multimodal reasoning",2023-2026
+T1_fine,20,313,3,"traffic, mobility, urban, spatiotemporal, prediction",2023-2026
+T1_fine,21,308,5,"graph, gnns, node, graph neural, graphs",2023-2026
+T1_fine,22,290,12,"explanations, xai, explanation, explainable, concept",2023-2026
+T1_fine,23,287,0,"bias, gender, biases, gender bias, fairness",2023-2026
+T1_fine,24,285,14,"adversarial, attacks, attack, backdoor, adversarial attacks",2023-2026
+T1_fine,25,267,3,"pose, pose estimation, hand, human pose, 3d",2023-2026
+T1_fine,26,264,6,"time series, series, forecasting, time, series forecasting",2023-2026
+T1_fine,27,257,0,"translation, machine translation, mt, machine, translations",2023-2026
+T1_fine,28,256,0,"fairness, fair, bias, protected, attributes",2023-2026
+T1_fine,29,245,0,"languages, multilingual, crosslingual, english, lowresource",2023-2026
+T1_fine,30,245,4,"continual, continual learning, forgetting, cl, catastrophic forgetting",2023-2026
+T1_fine,31,242,0,"mental, mental health, depression, health, counseling",2023-2026
+T1_fine,32,240,0,"texts, text, aigenerated, authorship, detectors",2023-2026
+T1_fine,33,232,12,"legal, law, court, legal reasoning, judicial",2023-2026
+T1_fine,34,226,3,"document, ocr, handwritten, text, documents",2023-2026
+T1_fine,35,224,12,"gui, web, agents, gui agents, mobile",2023-2026
+T1_fine,36,222,0,"sentiment, sentiment analysis, absa, analysis, opinion",2023-2026
+T1_fine,37,217,3,"deepfake, forgery, deepfake detection, detection, deepfakes",2023-2026
+T1_fine,38,217,7,"anomaly, anomaly detection, anomalies, detection, normal",2023-2026
+T1_fine,39,216,3,"video, videos, temporal, video understanding, retrieval",2023-2026
+T1_fine,40,214,12,"knowledge, knowledge graphs, knowledge graph, graphs, graph",2023-2026
+T1_fine,41,213,12,"consciousness, intelligence, ai, agi, artificial",2023-2026
+T1_fine,42,213,12,"reasoning, reasoning models, cot, lrms, chainofthought",2023-2026
+T1_fine,43,212,12,"ai, governance, ai systems, safety, risks",2023-2026
+T1_fine,44,210,0,"attention, sparse attention, sequence, linear attention, linear",2023-2026
+T1_fine,45,208,0,"financial, market, stock, sentiment, finance",2023-2026
+T1_fine,46,206,0,"vqa, multimodal, visual question, question, visual",2023-2026
+T1_fine,47,201,0,"dialogue, dialogues, persona, dialogue systems, conversational",2023-2026
+T1_fine,48,200,12,"preference, preferences, dpo, preference optimization, reward",2023-2026
+T1_fine,49,198,12,"knowledge graph, knowledge, knowledge graphs, graph, graph completion",2023-2026
+T1_fine,50,197,12,"game, games, strategic, agents, negotiation",2023-2026
+T1_fine,51,196,3,"infrared, fusion, uav, thermal, aerial",2023-2026
+T1_fine,52,191,8,"species, plant, leaf, animal, agricultural",2023-2026
+T1_fine,53,189,1,"radiology, reports, report generation, report, medical",2023-2026
+T1_fine,54,188,3,"vision, camouflaged, object detection, object, transformers",2023-2026
+T1_fine,55,179,12,"neurosymbolic, symbolic, logic, logical, neurosymbolic ai",2023-2026
+T1_fine,56,179,12,"planning, pddl, plans, plan, planning problems",2023-2026
+T1_fine,57,175,12,"scientific, science, ai, research, discovery",2023-2026
+T1_fine,58,174,14,"adversarial, attacks, attack, backdoor, defense",2023-2026
+T1_fine,59,172,0,"domain, adaptation, domain adaptation, target, target domain",2023-2026
+T1_fine,60,169,0,"hallucination, hallucinations, hallucination detection, detection, llms",2023-2026
+T1_fine,61,169,5,"clustering, cluster, multiview, kmeans, clusters",2023-2026
+T1_fine,62,168,0,"hate, hate speech, speech, speech detection, offensive",2023-2026
+T1_fine,63,165,0,"summarization, summaries, summary, abstractive, text summarization",2023-2026
+T1_fine,64,158,12,"code, code generation, programming, programming languages, generation",2023-2026
+T1_fine,65,154,5,"quantization, quantized, lowbit, posttraining quantization, weight",2023-2026
+T1_fine,66,152,3,"prompt, clip, zeroshot, prompt learning, visionlanguage",2023-2026
+T1_fine,67,151,13,"avatar, avatars, garment, 3d, tryon",2023-2026
+T1_fine,68,150,5,"graph, graphs, node, textattributed, graph neural",2023-2026
+T1_fine,69,149,0,"flow, flow matching, diffusion, sampling, matching",2023-2026
+T1_fine,70,142,0,"safety, harmful, safety alignment, unsafe, refusal",2023-2026
+T1_fine,71,142,12,"icl, incontext, incontext learning, demonstrations, learning icl",2023-2026
+T1_fine,72,142,5,"lora, lowrank, finetuning, peft, lowrank adaptation",2023-2026
+T1_fine,73,141,12,"judges, evaluation, llm, evaluators, llmasajudge",2023-2026
+T1_fine,74,139,0,"political, stance, stance detection, media, bias",2023-2026
+T1_fine,75,138,3,"spatial, spatial reasoning, reasoning, geometric, vlms",2023-2026
+T1_fine,76,137,1,"cancer, pathology, wsi, slide, mil",2023-2026
+T1_fine,77,134,5,"tabular, tabular data, feature selection, trees, feature",2023-2026
+T1_fine,78,131,12,"proof, theorem, theorem proving, proving, lean",2023-2026
+T1_fine,79,129,3,"multimodal, modalities, mllms, alignment, modality",2023-2026
+T1_fine,80,127,0,"kv, cache, kv cache, compression, keyvalue",2023-2026
+T1_fine,81,126,0,"scientific, citation, literature, papers, scientific literature",2023-2026
+T1_fine,82,119,5,"moe, experts, expert, mixtureofexperts, moe models",2023-2026
+T1_fine,83,118,6,"time series, series, forecasting, time, series forecasting",2023-2026
+T1_fine,84,118,2,"quantum, classical, quantum computing, quantum machine, computing",2023-2026
+T1_fine,85,118,12,"claim, factchecking, claims, verification, claim verification",2023-2026
+T1_fine,86,118,12,"games, game, chess, poker, search",2023-2026
+T1_fine,87,113,12,"scheduling, drl, shop, job shop, job",2023-2026
+T1_fine,88,112,14,"privacy, private, dp, sensitive, pii",2023-2026
+T1_fine,89,112,12,"ontology, ontologies, knowledge, ontological, owl",2023-2026
+T1_fine,90,110,0,"diffusion, diffusion language, decoding, parallel, autoregressive",2023-2026
+T1_fine,91,110,7,"defect, defect detection, inspection, crack, defects",2023-2026
+T1_fine,92,108,0,"hallucination, hallucinations, lvlms, visual, large visionlanguage",2023-2026
+T1_fine,93,104,5,"quantization, quantized, mixedprecision, posttraining quantization, weights",2023-2026
+T1_fine,94,104,3,"action, action recognition, recognition, video, temporal",2023-2026
+T1_fine,95,103,12,"uncertainty, confidence, uncertainty quantification, calibration, quantification",2023-2026
+T1_fine,96,102,5,"spiking, snns, spiking neural, neuromorphic, spike",2023-2026
+T1_fine,97,101,3,"depth, depth estimation, monocular, monocular depth, estimation",2023-2026
+T1_fine,98,101,0,"captioning, captions, image captioning, image, caption",2023-2026
+T1_fine,99,100,12,"energy, reinforcement, reinforcement learning, management, rl",2023-2026
+T1_fine,100,98,3,"sign, sign language, slt, language translation, translation",2023-2026
+T1_fine,101,96,0,"motion, motion generation, motions, human motion, dance",2023-2026
+T1_fine,102,96,4,"eeg, eeg signals, seizure, brain, bci",2023-2026
+T1_fine,103,96,5,"pruning, compression, networks, pruned, pruning methods",2023-2026
+T1_fine,104,95,3,"satellite, imagery, forest, remote sensing, land",2023-2026
+T1_fine,105,95,1,"ecg, rppg, ppg, heart, physiological",2023-2026
+T1_fine,106,95,3,"3d, editing, textto3d, score distillation, diffusion",2023-2026
+T1_fine,107,95,0,"news, fake news, fake, news detection, disinformation",2023-2026
+T1_fine,108,94,12,"grpo, policy optimization, policy, rlvr, rollout",2023-2026
+T1_fine,109,93,12,"explanations, explanation, faithfulness, rationales, rationale",2023-2026
+T1_fine,110,92,12,"editing, knowledge editing, knowledge, model editing, editing methods",2023-2026
+T1_fine,111,91,3,"erasure, watermarking, watermark, diffusion, diffusion models",2023-2026
+T1_fine,112,90,0,"table, tables, tabular, tabular data, table reasoning",2023-2026
+T1_fine,113,89,14,"jailbreak, jailbreaking, harmful, attack, safety",2023-2026
+T1_fine,114,89,0,"persuasion, persuasive, llms, biases, cognitive biases",2023-2026
+T1_fine,115,88,0,"speculative, speculative decoding, draft, decoding, draft model",2023-2026
+T1_fine,116,88,0,"longcontext, compression, context, long, long context",2023-2026
+T1_fine,117,87,0,"moral, ethical, moral reasoning, dilemmas, moral foundations",2023-2026
+T1_fine,118,87,12,"argumentation, semantics, arguments, logic, argument",2023-2026
+T1_fine,119,87,0,"talking, facial, lip, audio, animation",2023-2026
+T1_fine,120,86,12,"calibration, conformal, conformal prediction, uncertainty, prediction",2023-2026
+T1_fine,121,86,0,"video, video generation, video compression, attention, diffusion",2023-2026
+T1_fine,122,85,12,"rl, agents, agent, reinforcement, reinforcement learning",2023-2026
+T1_fine,123,85,3,"underwater, underwater image, marine, fish, image enhancement",2023-2026
+T1_fine,124,85,12,"discourse, argument, argumentative, argumentation, argument mining",2023-2026
+T1_fine,125,83,12,"milp, search, heuristic, heuristics, instances",2023-2026
+T1_fine,126,82,12,"causal, causal reasoning, causality, event, causal inference",2023-2026
+T1_fine,127,81,12,"prompt, prompt optimization, prompts, optimization, prompt engineering",2023-2026
+T1_fine,128,81,3,"face, face recognition, fr, facial, recognition",2023-2026
+T1_fine,129,80,11,"circuit, rtl, design, circuits, analog",2023-2026
+T1_fine,130,79,1,"glucose, patients, disease, heart, heart disease",2023-2026
+T1_fine,131,79,3,"surgical, surgery, instrument, surgical video, phase recognition",2023-2026
+T1_fine,132,78,3,"3d, scene, 3d scene, 2d, point",2023-2026
+T1_fine,133,78,14,"federated, federated learning, privacy, fl, medical",2023-2026
+T1_fine,134,78,4,"alzheimers, alzheimers disease, disease, ad, brain",2023-2026
+T1_fine,135,77,7,"fault, fault diagnosis, maintenance, diagnosis, faults",2023-2026
+T1_fine,136,77,3,"image compression, compression, image, autoregressive, tokenizer",2023-2026
+T1_fine,137,77,7,"anomaly, anomaly detection, time series, series, anomalies",2023-2026
+T1_fine,138,77,0,"video, motion, video generation, video editing, videos",2023-2026
+T1_fine,139,76,12,"tsp, routing, vehicle routing, salesman, traveling",2023-2026
+T1_fine,140,76,3,"segmentation, semantic segmentation, semantic, weakly supervised, wsss",2023-2026
+T1_fine,141,76,3,"tracking, multiobject tracking, multiobject, crowd, counting",2023-2026
+T1_fine,142,75,6,"energy, devices, iot, consumption, hardware",2023-2026
+T1_fine,143,74,5,"graph, gnns, attack, attacks, graph neural",2023-2026
+T1_fine,144,74,12,"asp, answer set, set programming, programming, answer",2023-2026
+T1_fine,145,73,14,"safety, reasoning, sabotage, monitor, hacking",2023-2026
+T1_fine,146,73,4,"memory, longterm, personalization, personalized, user",2023-2026
+T1_fine,147,73,12,"creativity, creative, ai, generative ai, human creativity",2023-2026
+T1_fine,148,73,3,"person, reid, reidentification, person reidentification, person retrieval",2023-2026
+T1_fine,149,73,4,"memory, agents, longterm, agent memory, longterm memory",2023-2026
+T1_fine,150,71,0,"audio, audiovisual, audio visual, video, audiovideo",2023-2026
+T1_fine,151,71,3,"medical, clinical, reports, multimodal, medical image",2023-2026
+T1_fine,152,71,0,"arabic, correction, gec, grammatical error, grammatical",2023-2026
+T1_fine,153,69,3,"video, segmentation, tracking, video object, object",2023-2026
+T1_fine,154,69,0,"transformers, transformer, length generalization, arithmetic, length",2023-2026
+T1_fine,155,69,5,"temporal, temporal graph, graph, dynamic graph, dynamic",2023-2026
+T1_fine,156,68,5,"bayesian optimization, bo, bayesian, optimization, optimization bo",2023-2026
+T1_fine,157,67,5,"recommendation, recommendations, user, item, recommender",2023-2026
+T1_fine,158,67,3,"registration, image registration, teeth, dental, tooth",2023-2026
+T1_fine,159,67,3,"pose, pose estimation, 6d, estimation, object pose",2023-2026
+T1_fine,160,67,12,"reward, reward models, reward model, rlhf, reward modeling",2023-2026
+T1_fine,161,66,0,"personality, traits, personality traits, trait, mbti",2023-2026
+T1_fine,162,66,5,"pac, multiclass, dimension, littlestone, pac learning",2023-2026
+T1_fine,163,66,3,"openvocabulary, segmentation, object, object detection, semantic segmentation",2023-2026
+T1_fine,164,65,14,"private, privacy, dp, differentially private, differentially",2023-2026
+T1_fine,165,65,5,"saes, sparse autoencoders, autoencoders, sparse, sae",2023-2026
+T1_fine,166,65,12,"mathematical, mathematical reasoning, math, reasoning, problems",2023-2026
+T1_fine,167,65,14,"adversarial, attacks, attack, adversarial attacks, visionlanguage",2023-2026
+T1_fine,168,65,0,"fake, news, misinformation, fake news, news detection",2023-2026
+T1_fine,169,64,3,"visual tokens, token, tokens, pruning, visual",2023-2026
+T1_fine,170,64,14,"safety, harmful, jailbreak, mllms, multimodal",2023-2026
+T1_fine,171,64,5,"pruning, structured pruning, sparsity, pruning methods, structured",2023-2026
+T1_fine,172,63,5,"label, longtailed, labels, classes, noisy",2023-2026
+T1_fine,173,63,5,"active learning, active, al, learning, informative",2023-2026
+T1_fine,174,62,0,"relation, relation extraction, extraction, entity, relations",2023-2026
+T1_fine,175,62,3,"radar, 4d, 4d radar, radar data, radarcamera",2023-2026
+T1_fine,176,62,12,"rlvr, verifiable, rewards, rl, reasoning",2023-2026
+T1_fine,177,62,0,"review, peer, peer review, reviews, reviewers",2023-2026
+T1_fine,178,62,0,"cultural, cultural alignment, culturally, bias, alignment",2023-2026
+T1_fine,179,61,3,"lane, road, lane detection, driving, lanes",2023-2026
+T1_fine,180,61,12,"sports, player, soccer, badminton, players",2023-2026
+T1_fine,181,61,0,"dataset distillation, distillation, diffusion, diffusion models, dataset",2023-2026
+T1_fine,182,60,0,"embedding, embeddings, sentence, sentence embeddings, sentence embedding",2023-2026
+T1_fine,183,60,0,"sarcasm, humor, sarcasm detection, humour, sarcastic",2023-2026
+T1_fine,184,60,3,"activity recognition, har, activity, human activity, recognition",2023-2026
+T1_fine,185,59,3,"gaze, gaze estimation, eye, estimation, eyetracking",2023-2026
+T1_fine,186,59,12,"deep research, search, texttosql, sql, deep search",2023-2026
+T1_fine,187,58,4,"topological, simplicial, homology, complexes, tda",2023-2026
+T1_fine,188,58,14,"privacy, membership, membership inference, attacks, inference attacks",2023-2026
+T1_fine,189,57,5,"topic, topics, topic models, topic modeling, neural topic",2023-2026
+T1_fine,190,57,12,"reasoning, length, thinking, lrms, reasoning models",2023-2026
+T1_fine,191,56,12,"pomdps, pomdp, belief, partially observable, observable",2023-2026
+T1_fine,192,55,12,"distillation, teacher, student, knowledge distillation, kd",2023-2026
+T1_fine,193,55,0,"diffusion, diffusion models, image, image generation, latent",2023-2026
+T1_fine,194,55,3,"chart, charts, chart understanding, visualization, visualizations",2023-2026
+T1_fine,195,55,3,"gait, gait recognition, recognition, rehabilitation, walking",2023-2026
+T1_fine,196,55,12,"sat, solvers, constraint, maxsat, satisfiability",2023-2026
+T1_fine,197,55,8,"food, recipe, dietary, recipes, culinary",2023-2026
+T1_fine,198,55,14,"unlearning, memorization, machine unlearning, unlearning methods, privacy",2023-2026
+T1_fine,199,54,0,"grammatical, syntactic, babylm, children, language",2023-2026
+T1_fine,200,54,0,"texttosql, sql, sql queries, queries, database",2023-2026
+T1_fine,201,54,3,"hyperspectral, hsi, spectral, hyperspectral image, spatialspectral",2023-2026
+T1_fine,202,53,3,"view, video, views, camera, view synthesis",2023-2026
+T1_fine,203,53,12,"distillation, kd, student, teacher, knowledge distillation",2023-2026
+T1_fine,204,53,0,"story, video generation, video, narrative, storytelling",2023-2026
+T1_fine,205,53,14,"fl, federated, federated learning, attacks, poisoning",2023-2026
+T1_fine,206,53,3,"remote sensing, remote, rs, sensing, sensing rs",2023-2026
+T1_fine,207,52,3,"lowlight, shadow, enhancement, image enhancement, lowlight image",2023-2026
+T1_fine,208,52,3,"spatial, geospatial, gis, spatial reasoning, geographic",2023-2026
+T1_fine,209,52,3,"restoration, image restoration, degradation, image, allinone",2023-2026
+T1_fine,210,51,3,"endoscopic, depth, surgical, depth estimation, colonoscopy",2023-2026
+T1_fine,211,51,14,"privacy, federated, federated learning, fl, differential privacy",2023-2026
+T1_fine,212,51,10,"ood, ood detection, outofdistribution, detection, id",2023-2026
+T1_fine,213,50,0,"biases, bias, gender, t2i, texttoimage",2023-2026
+T1_fine,214,50,7,"change, change detection, cd, remote sensing, remote",2023-2026
+T1_fine,215,49,5,"token, mtp, multitoken, multitoken prediction, embeddings",2023-2026
+T1_fine,216,49,6,"ai, edge, energy, environmental, consumption",2023-2026
+T1_fine,217,48,12,"instruction, instructions, instruction tuning, instruction data, tuning",2023-2026
+T1_fine,218,47,3,"uav, uavs, aerial, unmanned, unmanned aerial",2023-2026
+T1_fine,219,46,5,"mtl, multitask, multitask learning, hpo, learning mtl",2023-2026
+T1_fine,220,46,5,"equivariant, symmetries, symmetry, group, equivariance",2023-2026
+T1_fine,221,46,3,"retinal, retinopathy, diabetic, fundus, diabetic retinopathy",2023-2026
+T1_fine,222,46,5,"ssl, selfsupervised learning, selfsupervised, learning ssl, representations",2023-2026
+T1_fine,223,45,12,"safety, agents, embodied, risks, risk",2023-2026
+T1_fine,224,45,3,"face, antispoofing, face antispoofing, fas, attack detection",2023-2026
+T1_fine,225,45,6,"electricity, forecasting, load, energy, price",2023-2026
+T1_fine,226,45,12,"simulation, social, agentbased, agentbased modeling, agents",2023-2026
+T1_fine,227,45,0,"entity, ner, entity recognition, named entity, named",2023-2026
+T1_fine,228,44,12,"moral, values, ethical, human values, ethics",2023-2026
+T1_fine,229,44,0,"categorical, anisotropy, subdimensions, representations, conceptual",2023-2026
+T1_fine,230,43,0,"korean, parsing, dependency, syntactic, treebank",2023-2026
+T1_fine,231,43,5,"tensor, nmf, pca, decomposition, factorization",2023-2026
+T1_fine,232,42,5,"graph, gnn, gnns, graph neural, explanations",2023-2026
+T1_fine,233,42,12,"supply, supply chain, optimization modeling, optimization, chain",2023-2026
+T1_fine,234,42,12,"belief, revision, belief revision, theory, iterated",2023-2026
+T1_fine,235,42,12,"graph, graph reasoning, reasoning, graphs, llms",2023-2026
+T1_fine,236,42,3,"fingerprint, iris, biometric, iris recognition, finger",2023-2026
+T1_fine,237,42,0,"music, lyrics, musical, music generation, song",2023-2026
+T1_fine,238,42,3,"event, eventbased, cameras, motion, event cameras",2023-2026
+T1_fine,239,41,4,"continual, forgetting, continual learning, catastrophic forgetting, catastrophic",2023-2026
+T1_fine,240,40,6,"imputation, missing, time series, missing data, series",2023-2026
+T1_fine,241,40,14,"privacy, synthetic data, synthetic, private, dp",2023-2026
+T1_fine,242,40,10,"shapley, shapley values, shap, values, shapley value",2023-2026
+T1_fine,243,40,2,"fuzzy, rough, topsis, rough set, sets",2023-2026
+T1_fine,244,40,0,"disaster, emergency, crisis, disasters, events",2023-2026
+T1_fine,245,40,1,"survival, survival analysis, cancer, survival models, patients",2023-2026
+T1_fine,246,40,3,"dehazing, deblurring, image dehazing, haze, image",2023-2026
+T1_fine,247,40,3,"cultural, multilingual, languages, cultural understanding, vlms",2023-2026
+T1_fine,248,40,3,"intent, intent detection, intents, slu, intent classification",2023-2026
+T1_fine,249,39,4,"fmri, brain, decoding, stimuli, visual",2023-2026
+T1_fine,250,38,7,"process, process mining, mining, business, business process",2023-2026
+T1_fine,251,37,3,"slam, odometry, mapping, visual odometry, vo",2023-2026
+T1_fine,252,37,1,"ehr, ehr data, clinical, electronic health, health records",2023-2026
+T1_fine,253,37,0,"gans, generative adversarial, gan, adversarial networks, networks gans",2023-2026
+T1_fine,254,37,0,"event, extraction, eae, event extraction, events",2023-2026
+T1_fine,255,36,3,"shape, 3d shape, shapes, 3d, deformation",2023-2026
+T1_fine,256,36,3,"sar, sar images, synthetic aperture, aperture radar, aperture",2023-2026
+T1_fine,257,36,7,"fraud, big data, financial, credit, big",2023-2026
+T1_fine,258,36,7,"anomaly, anomaly detection, gad, graph anomaly, detection",2023-2026
+T1_fine,259,35,12,"marl, multiagent reinforcement, multiagent, agents, cooperative",2023-2026
+T1_fine,260,35,3,"mri, reconstruction, imaging, brain, magnetic",2023-2026
+T1_fine,261,35,0,"memes, hateful, meme, hate, harmful",2023-2026
+T1_fine,262,35,1,"clinical, explainability, xai, healthcare, medical",2023-2026
+T1_fine,263,35,3,"watermarking, watermark, watermarks, watermarked, text",2023-2026
+T1_fine,264,34,0,"morphological, tokenization, bpe, cognate, languages",2023-2026
+T1_fine,265,34,3,"superresolution, sr, image superresolution, diffusion, image",2023-2026
+T1_fine,266,34,0,"misinformation, media, social media, covid19, tweets",2023-2026
+T1_fine,267,34,5,"backpropagation, forwardforward, forwardforward algorithm, networks, network",2023-2026
+T1_fine,268,34,0,"texttoimage, diffusion, t2i, diffusion models, nsfw",2023-2026
+T1_fine,269,34,5,"transport, ot, optimal transport, wasserstein, optimal",2023-2026
+T1_fine,270,33,5,"tree, tree search, search, mcts, monte carlo",2023-2026
+T1_fine,271,33,3,"object detection, object, detection, yolo, detectors",2023-2026
+T1_fine,272,33,3,"masked, saliency, masking, mim, selfsupervised",2023-2026
+T1_fine,273,33,14,"fl, devices, federated, edge, federated learning",2023-2026
+T1_fine,274,33,12,"xai, explanation, explanations, explainable, ai",2023-2026
+T1_fine,275,33,12,"patent, patents, innovation, promotional, claims",2023-2026
+T1_fine,276,32,7,"fraud, transaction, fraud detection, laundering, transactions",2023-2026
+T1_fine,277,32,0,"generative, generative models, model collapse, synthetic data, synthetic",2023-2026
+T1_fine,278,32,14,"cybersecurity, vulnerability, security, ctf, vulnerability detection",2023-2026
+T1_fine,279,31,3,"registration, cloud registration, point, correspondences, point cloud",2023-2026
+T1_fine,280,31,3,"place recognition, vpr, place, visual place, recognition",2023-2026
+T1_fine,281,31,3,"stereo, stereo matching, disparity, matching, depth",2023-2026
+T1_fine,282,31,15,"electron, microscopy, electron microscopy, segmentation, characterization",2023-2026
+T1_fine,283,31,0,"tokenization, vocabulary, tokenizer, tokenizers, bpe",2023-2026
+T1_fine,284,31,12,"uncertainty, bayesian neural, bayesian, bnns, posterior",2023-2026
+T1_fine,285,30,3,"damage, disaster, imagery, building, building damage",2023-2026
+T1_fine,286,30,3,"quality assessment, iqa, image quality, quality, assessment",2023-2026
+T1_fine,287,30,12,"combinatorial optimization, combinatorial, optimization problems, problems, optimization",2023-2026
+T1_fine,288,30,3,"metalearning, maml, meta, gradientbased metalearning, gradient",2023-2026
+T1_fine,289,30,0,"essay, essays, scoring, essay scoring, aes",2023-2026
+T1_fine,290,30,1,"alignment, sft, preference, llm alignment, selfalignment",2023-2026
+T1_fine,291,30,0,"narrative, story, stories, fiction, drama",2023-2026
+T2_medium,0,758,3,"speech, asr, speech recognition, automatic speech, recognition",2020-2023
+T2_medium,1,712,14,"adversarial, attacks, attack, adversarial examples, robustness",2020-2023
+T2_medium,2,697,5,"graph, node, gnns, graphs, graph neural",2020-2023
+T2_medium,3,592,5,"gradient, descent, sgd, gradient descent, networks",2020-2023
+T2_medium,4,576,0,"translation, machine translation, neural machine, nmt, machine",2020-2023
+T2_medium,5,481,1,"patients, covid19, health, patient, ecg",2020-2023
+T2_medium,6,474,12,"scheduling, problem, routing, problems, combinatorial",2020-2023
+T2_medium,7,454,0,"dialogue, dialog, taskoriented, response, dialogue systems",2020-2023
+T2_medium,8,423,6,"time series, series, forecasting, time, power",2020-2023
+T2_medium,9,410,1,"clinical, biomedical, medical, notes, clinical notes",2020-2023
+T2_medium,10,402,4,"equations, differential equations, differential, pdes, physicsinformed",2020-2023
+T2_medium,11,381,12,"ai, intelligence, artificial, artificial intelligence, trust",2020-2023
+T2_medium,12,376,12,"causal, variables, causal inference, observational, causal discovery",2020-2023
+T2_medium,13,370,7,"anomaly, anomaly detection, anomalies, detection, normal",2020-2023
+T2_medium,14,355,5,"bandit, regret, bandits, arm, multiarmed",2020-2023
+T2_medium,15,353,12,"policy, rl, offline, reinforcement learning, reinforcement",2020-2023
+T2_medium,16,350,4,"continual, continual learning, forgetting, catastrophic forgetting, catastrophic",2020-2023
+T2_medium,17,348,14,"federated, federated learning, fl, clients, client",2020-2023
+T2_medium,18,338,3,"pose, body, pose estimation, 3d, human pose",2020-2023
+T2_medium,19,324,12,"reinforcement learning, reinforcement, exploration, rl, reward",2020-2023
+T2_medium,20,323,0,"hate, hate speech, offensive, speech, speech detection",2020-2023
+T2_medium,21,302,12,"uncertainty, calibration, bayesian, flows, variational",2020-2023
+T2_medium,22,297,14,"privacy, private, differentially private, differentially, differential privacy",2020-2023
+T2_medium,23,288,3,"action, action recognition, video, temporal, recognition",2020-2023
+T2_medium,24,281,0,"summarization, summaries, abstractive, summary, abstractive summarization",2020-2023
+T2_medium,25,270,0,"fairness, fair, bias, groups, sensitive",2020-2023
+T2_medium,26,265,0,"domain, domain adaptation, adaptation, source, target",2020-2023
+T2_medium,27,263,0,"question, qa, answering, question answering, answer",2020-2023
+T2_medium,28,258,0,"word, embeddings, sentence, similarity, word embeddings",2020-2023
+T2_medium,29,257,3,"lidar, 3d, 3d object, object detection, point",2020-2023
+T2_medium,30,249,12,"game, games, mcts, players, chess",2020-2023
+T2_medium,31,246,5,"quantization, quantized, compression, binary, weights",2020-2023
+T2_medium,32,242,1,"molecular, molecules, protein, drug, molecule",2020-2023
+T2_medium,33,230,12,"prompt, fewshot, prompts, incontext, tuning",2020-2023
+T2_medium,34,229,12,"logic, reasoning, symbolic, neurosymbolic, analogical",2020-2023
+T2_medium,35,227,3,"trajectory, trajectory prediction, driving, prediction, pedestrian",2020-2023
+T2_medium,36,225,3,"superresolution, deblurring, sr, image, denoising",2020-2023
+T2_medium,37,224,3,"tracking, trackers, object tracking, mot, tracker",2020-2023
+T2_medium,38,222,14,"adversarial, attack, attacks, backdoor, adversarial attacks",2020-2023
+T2_medium,39,219,0,"style, style transfer, diffusion, texttoimage, image",2020-2023
+T2_medium,40,216,12,"planning, symbolic, plans, plan, planners",2020-2023
+T2_medium,41,202,12,"multiagent, agents, marl, multiagent reinforcement, cooperative",2020-2023
+T2_medium,42,202,3,"radiance, nerf, rendering, 3d, view synthesis",2020-2023
+T2_medium,43,199,0,"ner, entity recognition, named entity, entity, named",2020-2023
+T2_medium,44,187,3,"point, point cloud, cloud, clouds, point clouds",2020-2023
+T2_medium,45,184,3,"traffic, spatiotemporal, travel, mobility, prediction",2020-2023
+T2_medium,46,173,0,"news, fake news, fake, news detection, media",2020-2023
+T2_medium,47,171,12,"knowledge graph, knowledge, entities, graph, embedding",2020-2023
+T2_medium,48,169,0,"relation, relation extraction, extraction, relations, entity",2020-2023
+T2_medium,49,167,12,"navigation, embodied, agent, environment, vln",2020-2023
+T2_medium,50,164,3,"face, face recognition, recognition, facial, faces",2020-2023
+T2_medium,51,162,0,"generation, text generation, text, language generation, nlg",2020-2023
+T2_medium,52,161,0,"gender, bias, biases, gender bias, debiasing",2020-2023
+T2_medium,53,161,6,"hardware, devices, dnn, memory, energy",2020-2023
+T2_medium,54,160,0,"transformer, attention, selfattention, transformers, sequence",2020-2023
+T2_medium,55,157,3,"fewshot, fewshot learning, fsl, fewshot classification, classes",2020-2023
+T2_medium,56,156,0,"crosslingual, languages, multilingual, crosslingual transfer, transfer",2020-2023
+T2_medium,57,156,3,"reid, person, reidentification, person reidentification, reidentification reid",2020-2023
+T2_medium,58,155,5,"active learning, active, al, learning, learning al",2020-2023
+T2_medium,59,155,12,"distillation, teacher, student, knowledge distillation, knowledge",2020-2023
+T2_medium,60,152,12,"explanations, attribution, explanation, concept, attribution methods",2020-2023
+T2_medium,61,150,0,"vqa, visual question, visual, answering, question",2020-2023
+T2_medium,62,148,3,"segmentation, medical image, medical, image segmentation, image",2020-2023
+T2_medium,63,147,3,"facial, expression, facial expression, expression recognition, au",2020-2023
+T2_medium,64,146,0,"parsing, dependency, parser, treebank, parsers",2020-2023
+T2_medium,65,144,12,"code, program, code generation, programming, source code",2020-2023
+T2_medium,66,142,8,"plant, crop, species, weed, leaf",2020-2023
+T2_medium,67,141,0,"sentiment, aspect, absa, sentiment analysis, aspectbased",2020-2023
+T2_medium,68,134,5,"tensor, matrix, lowrank, nonnegative, decomposition",2020-2023
+T2_medium,69,133,6,"weather, precipitation, climate, air, forecasting",2020-2023
+T2_medium,70,133,12,"explanations, explanation, rationales, rationale, nlp",2020-2023
+T2_medium,71,132,0,"linguistic, language, language models, syntactic, brain",2020-2023
+T2_medium,72,132,0,"gans, gan, generative adversarial, adversarial networks, generative",2020-2023
+T2_medium,73,129,3,"handwritten, ocr, handwriting, character, recognition",2020-2023
+T2_medium,74,129,3,"vision, vision transformers, transformers, vision transformer, vits",2020-2023
+T2_medium,75,127,12,"traffic, driving, control, traffic signal, signal control",2020-2023
+T2_medium,76,125,12,"legal, court, law, legal documents, documents",2020-2023
+T2_medium,77,123,0,"nas, search, architecture search, neural architecture, architecture",2020-2023
+T2_medium,78,119,3,"video, video object, segmentation, object segmentation, object",2020-2023
+T2_medium,79,117,3,"deepfake, forgery, deepfake detection, deepfakes, forgery detection",2020-2023
+T2_medium,80,117,5,"multiview, clustering, manifold, hyperbolic, multiview clustering",2020-2023
+T2_medium,81,117,0,"captioning, image captioning, captions, caption, image",2020-2023
+T2_medium,82,111,3,"face, antispoofing, morphing, face antispoofing, face recognition",2020-2023
+T2_medium,83,110,0,"gec, correction, spelling, error correction, grammatical",2020-2023
+T2_medium,84,109,5,"topic, topics, topic modeling, topic models, clustering",2020-2023
+T2_medium,85,109,0,"twitter, tweets, social, social media, media",2020-2023
+T2_medium,86,108,0,"event, event extraction, extraction, events, argument",2020-2023
+T2_medium,87,107,2,"fuzzy, rough, decision, rough set, intervalvalued",2020-2023
+T2_medium,88,107,12,"reasoning, logical, prompting, llms, logical reasoning",2020-2023
+T2_medium,89,107,1,"cancer, breast, wsi, slide, cell",2020-2023
+T2_medium,90,106,0,"disentangled, disentanglement, latent, vae, latent space",2020-2023
+T2_medium,91,102,1,"reports, chest, radiology, medical, xray",2020-2023
+T2_medium,92,102,3,"video, grounding, moment, retrieval, videos",2020-2023
+T2_medium,93,99,0,"commonsense, commonsense knowledge, commonsense reasoning, knowledge, reasoning",2020-2023
+T2_medium,94,99,5,"augmentation, data augmentation, robustness, mixup, image",2020-2023
+T2_medium,95,98,3,"slam, localization, odometry, camera, vslam",2020-2023
+T2_medium,96,98,12,"explanations, explanation, decision, xai, ml",2020-2023
+T2_medium,97,96,3,"multimodal, emotion, emotion recognition, multimodal sentiment, modalities",2020-2023
+T2_medium,98,96,3,"sign, sign language, language recognition, language, gestures",2020-2023
+T2_medium,99,93,12,"safe, safety, rl, reinforcement learning, reinforcement",2020-2023
+T2_medium,100,91,12,"ontology, ontologies, owl, web, ontological",2020-2023
+T2_medium,101,91,3,"intent, intent detection, intents, slot, slot filling",2020-2023
+T2_medium,102,91,3,"hyperspectral, change detection, change, hsi, hyperspectral image",2020-2023
+T2_medium,103,88,9,"battery, energy, charging, power, electric",2020-2023
+T2_medium,104,88,3,"satellite, imagery, land, satellite imagery, forest",2020-2023
+T2_medium,105,87,3,"pose, 6d, pose estimation, object pose, estimation",2020-2023
+T2_medium,106,86,3,"illumination, lighting, relighting, reflectance, rendering",2020-2023
+T2_medium,107,85,3,"depth, depth estimation, monocular depth, monocular, estimation",2020-2023
+T2_medium,108,84,0,"compositional, compositional generalization, semantic parsing, parsing, generalization",2020-2023
+T2_medium,109,83,5,"pruning, filters, network pruning, channel pruning, pruning methods",2020-2023
+T2_medium,110,82,3,"instance segmentation, segmentation, instance, mask, masks",2020-2023
+T2_medium,111,82,4,"brain, disease, functional, pd, alzheimers",2020-2023
+T2_medium,112,82,5,"clustering, kmeans, cluster, clusters, biclustering",2020-2023
+T2_medium,113,81,0,"morphological, hebrew, bert, languages, word segmentation",2020-2023
+T2_medium,114,81,0,"editing, latent, stylegan, inversion, gan",2020-2023
+T2_medium,115,80,0,"pruning, bert, compression, pretrained, language",2020-2023
+T2_medium,116,80,3,"salient, salient object, sod, saliency, object detection",2020-2023
+T2_medium,117,79,3,"scene text, text, text detection, text recognition, scene",2020-2023
+T2_medium,118,78,12,"ml, machine learning, reproducibility, machine, datacentric",2020-2023
+T2_medium,119,78,5,"bayesian optimization, bo, bayesian, optimization, blackbox",2020-2023
+T2_medium,120,78,12,"kgs, knowledge graphs, logical, reasoning, rules",2020-2023
+T2_medium,121,76,5,"equivariant, equivariance, symmetry, group, transformations",2020-2023
+T2_medium,122,76,12,"communication, emergent, agents, referential, emergent communication",2020-2023
+T2_medium,123,76,0,"verification, lipschitz, neural networks, networks, neural",2020-2023
+T2_medium,124,75,12,"argument, arguments, argumentative, argumentation, argument mining",2020-2023
+T2_medium,125,75,3,"hand, hands, hand pose, contact, pose",2020-2023
+T2_medium,126,73,0,"music, poetry, lyrics, poems, song",2020-2023
+T2_medium,127,73,5,"trees, decision trees, decision, fuzzy, tree",2020-2023
+T2_medium,128,73,3,"optical flow, flow, optical, event, flow estimation",2020-2023
+T2_medium,129,72,3,"license, plate, license plate, pedestrian, vehicle",2020-2023
+T2_medium,130,72,0,"sentiment, sentiment analysis, analysis, reviews, lexicon",2020-2023
+T2_medium,131,72,3,"emotion, emotions, emotioncause, emotion detection, pair extraction",2020-2023
+T2_medium,132,72,3,"registration, point, cloud registration, point cloud, cloud",2020-2023
+T2_medium,133,72,12,"pomdp, pomdps, observable, partially observable, belief",2020-2023
+T2_medium,134,71,0,"texttosql, sql, parsing, database, sql queries",2020-2023
+T2_medium,135,71,12,"counterfactual, counterfactual explanations, explanations, counterfactuals, explanation",2020-2023
+T2_medium,136,71,3,"motion, human motion, human, motion prediction, motions",2020-2023
+T2_medium,137,70,5,"graph, text, graphtotext, text classification, graphs",2020-2023
+T2_medium,138,70,0,"coreference, coreference resolution, resolution, mentions, mention",2020-2023
+T2_medium,139,69,3,"surgical, surgery, instrument, endoscopic, instruments",2020-2023
+T2_medium,140,68,3,"metalearning, maml, meta, fewshot, meta learning",2020-2023
+T2_medium,141,68,5,"noisy, label noise, noise, noisy labels, label",2020-2023
+T2_medium,142,68,0,"product, ecommerce, reviews, opinion, summarization",2020-2023
+T2_medium,143,68,4,"eeg, eeg signals, signals, bci, eeg data",2020-2023
+T2_medium,144,68,0,"medical, questions, clinical, qa, question",2020-2023
+T2_medium,145,68,0,"covid19, tweets, vaccines, pandemic, vaccine",2020-2023
+T2_medium,146,67,0,"depression, mental, mental health, social media, media",2020-2023
+T2_medium,147,67,0,"multihop, reasoning, question, multihop question, multihop reasoning",2020-2023
+T2_medium,148,67,1,"ai, medical, explainable, healthcare, clinical",2020-2023
+T2_medium,149,67,3,"action recognition, skeletonbased, action, skeleton, skeletonbased action",2020-2023
+T2_medium,150,67,3,"saliency, saliency maps, maps, saliency prediction, gaze",2020-2023
+T2_medium,151,66,5,"recommendation, user, ctr, ctr prediction, feature interactions",2020-2023
+T2_medium,152,66,3,"registration, image registration, deformation, shape, image",2020-2023
+T2_medium,153,66,12,"answer set, asp, set programming, answer, programming",2020-2023
+T2_medium,154,65,0,"audiovisual, audio, sound, sounding, visual",2020-2023
+T2_medium,155,65,5,"ssl, semisupervised, semisupervised learning, unlabeled, unlabeled data",2020-2023
+T2_medium,156,65,13,"fashion, aesthetic, product, products, attributes",2020-2023
+T2_medium,157,65,0,"domain, adaptation, semantic segmentation, domain adaptation, segmentation",2020-2023
+T2_medium,158,64,5,"ssl, selfsupervised, selfsupervised learning, learning ssl, augmentations",2020-2023
+T2_medium,159,64,0,"paraphrase, paraphrase generation, paraphrases, paraphrasing, plagiarism",2020-2023
+T2_medium,160,64,7,"process, process mining, conformance, logs, event",2020-2023
+T2_medium,161,63,12,"revision, logic, belief, model counting, probabilistic",2020-2023
+T2_medium,162,63,5,"clustering, contrastive, image clustering, deep clustering, category discovery",2020-2023
+T2_medium,163,63,7,"fault, fault diagnosis, diagnosis, damage, monitoring",2020-2023
+T2_medium,164,62,0,"financial, stock, sentiment, market, prices",2020-2023
+T2_medium,165,62,3,"reconstruction, inverse problems, imaging, inverse, compressed sensing",2020-2023
+T2_medium,166,62,12,"claim, claims, factchecking, verification, evidence",2020-2023
+T2_medium,167,62,12,"xai, explainable, ai, explanation, explanations",2020-2023
+T2_medium,168,61,2,"quantum, quantum computing, qubo, classical, computers",2020-2023
+T2_medium,169,61,0,"lip, talking, talking face, audio, facial",2020-2023
+T2_medium,170,61,0,"imagetoimage, imagetoimage translation, image, synthesis, image synthesis",2020-2023
+T2_medium,171,61,3,"mesh, meshes, shape, surface, surfaces",2020-2023
+T2_medium,172,60,3,"localization, weakly, weakly supervised, object localization, object",2020-2023
+T2_medium,173,60,5,"multilabel, label, labels, multilabel classification, pll",2020-2023
+T2_medium,174,59,5,"bounds, pac, halfspaces, learnability, bound",2020-2023
+T2_medium,175,59,12,"sat, solvers, constraint, constraints, solver",2020-2023
+T2_medium,176,58,3,"zsl, zeroshot learning, zeroshot, classes, gzsl",2020-2023
+T2_medium,177,58,12,"imitation, imitation learning, demonstrations, expert, expert demonstrations",2020-2023
+T2_medium,178,58,3,"underwater, underwater image, enhancement, image enhancement, sonar",2020-2023
+T2_medium,179,58,5,"scene graph, scene, graph generation, sgg, scene graphs",2020-2023
+T2_medium,180,57,5,"imbalanced, imbalance, oversampling, class, imbalanced data",2020-2023
+T2_medium,181,56,0,"face, editing, facial, attribute, latent",2020-2023
+T2_medium,182,55,5,"multitask, multitask learning, mtl, tasks, learning mtl",2020-2023
+T2_medium,183,54,0,"empathetic, empathy, emotion, emotional, response",2020-2023
+T2_medium,184,53,3,"fingerprint, iris, fingerprints, presentation, vein",2020-2023
+T2_medium,185,52,10,"ood, ood detection, outofdistribution, indistribution, outofdistribution detection",2020-2023
+T2_medium,186,52,0,"dialogue, dialogue state, state tracking, dst, state",2020-2023
+T2_medium,187,52,0,"story, stories, story generation, generation, narrative",2020-2023
+T2_medium,188,51,0,"diffusion, diffusion models, denoising, generative, generative models",2020-2023
+T2_medium,189,51,5,"transport, wasserstein, optimal transport, ot, barycenter",2020-2023
+T2_medium,190,51,5,"contrastive, contrastive learning, selfsupervised, negative, negatives",2020-2023
+T2_medium,191,50,5,"snns, spiking, spiking neural, snn, spike",2020-2023
+T2_medium,192,50,12,"players, football, sports, team, player",2020-2023
+T2_medium,193,49,0,"linking, entity linking, entity, el, entities",2020-2023
+T2_medium,194,49,0,"dialogue summarization, summarization, dialogue, meeting, summaries",2020-2023
+T2_medium,195,49,6,"imputation, missing, missing data, missing values, data imputation",2020-2023
+T2_medium,196,49,7,"process, process monitoring, business process, business, predictive",2020-2023
+T2_medium,197,48,14,"backdoor, byzantine, federated, attacks, federated learning",2020-2023
+T2_medium,198,48,3,"crowd, counting, crowd counting, density, density map",2020-2023
+T2_medium,199,48,12,"logic, ontologies, ontology, queries, logics",2020-2023
+T2_medium,200,47,7,"drift, concept drift, concept, drift detection, change",2020-2023
+T2_medium,201,47,12,"attacker, attack, reinforcement, rl, reinforcement learning",2020-2023
+T2_medium,202,47,3,"rain, dehazing, deraining, image dehazing, haze",2020-2023
+T2_medium,203,46,7,"fraud, fraud detection, transaction, transactions, payment",2020-2023
+T2_medium,204,46,3,"multimodal, modalities, unimodal, multimodal learning, modality",2020-2023
+T2_medium,205,45,0,"metaphor, idioms, literal, metaphors, idiomatic",2020-2023
+T2_medium,206,45,4,"reservoir, reservoir computing, chaotic, rc, esns",2020-2023
+T2_medium,207,45,0,"authorship, authorship attribution, texts, attribution, authors",2020-2023
+T2_medium,208,45,12,"math, mwp, math word, word problems, word problem",2020-2023
+T2_medium,209,45,4,"topological, persistence, persistent homology, homology, persistent",2020-2023
+T2_medium,210,45,0,"languages, word order, word, change, words",2020-2023
+T2_medium,211,45,12,"entity alignment, ea, alignment, entity, kgs",2020-2023
+T2_medium,212,44,9,"ad, advertisers, advertising, bidding, ads",2020-2023
+T2_medium,213,44,0,"political, news, media, media bias, bias",2020-2023
+T2_medium,214,44,0,"dialogue, multimodal, multimodal dialogue, visual, dialogues",2020-2023
+T2_medium,215,44,12,"students, knowledge tracing, student, tracing, kt",2020-2023
+T2_medium,216,43,3,"building, buildings, building segmentation, satellite, segmentation",2020-2023
+T2_medium,217,43,0,"kbqa, question, answering, question answering, sparql",2020-2023
+T2_medium,218,43,3,"radar, radar data, fusion, sensor, mmwave",2020-2023
+T2_medium,219,43,3,"frame, interpolation, frame interpolation, video, frames",2020-2023
+T2_medium,220,43,3,"object detection, object, detector, detection, detectors",2020-2023
+T2_medium,221,43,3,"gait, gait recognition, recognition, walking, recognition methods",2020-2023
+T2_medium,222,42,3,"object detection, object, semantic segmentation, backbone, segmentation",2020-2023
+T2_medium,223,42,3,"iot, things, devices, wireless, fingerprinting",2020-2023
+T2_medium,224,42,5,"longtailed, longtailed recognition, tail, classes, balanced",2020-2023
+T2_medium,225,42,12,"treatment, rl, reinforcement learning, reinforcement, health",2020-2023
+T2_medium,226,42,3,"stereo, stereo matching, matching, disparity, cost volume",2020-2023
+T2_medium,227,42,5,"attack, attacks, graph, gnns, node",2020-2023
+T2_medium,228,42,7,"defect, inspection, defect detection, manufacturing, defects",2020-2023
+T2_medium,229,42,3,"semantic segmentation, semisupervised semantic, segmentation, semisupervised, semantic",2020-2023
+T2_medium,230,42,3,"image fusion, fusion, image, infrared, multifocus",2020-2023
+T2_medium,231,41,0,"face, face recognition, fairness, bias, gender",2020-2023
+T2_medium,232,41,3,"lane, lane detection, fisheye, lanes, driving",2020-2023
+T2_medium,233,41,8,"crop, soil, food, agriculture, farmers",2020-2023
+T2_medium,234,40,3,"watermarking, watermark, steganography, steganographic, watermarks",2020-2023
+T2_medium,235,39,3,"hashing, hash, codes, image retrieval, retrieval",2020-2023
+T2_medium,236,39,0,"keyphrase, keyphrase generation, keyphrases, keyphrase extraction, extraction",2020-2023
+T2_medium,237,39,3,"har, activity, activity recognition, human activity, wearable",2020-2023
+T2_medium,238,39,0,"knowledge, language models, pretrained language, lms, factual",2020-2023
+T2_medium,239,38,3,"clip, visionlanguage, prompt, visionlanguage models, pretraining",2020-2023
+T2_medium,240,38,3,"emotion, erc, emotion recognition, conversation, recognition conversation",2020-2023
+T2_medium,241,38,5,"pruning, lottery, tickets, ticket, sparse",2020-2023
+T2_medium,242,38,12,"temporal knowledge, temporal, tkg, knowledge graph, facts",2020-2023
+T2_medium,243,38,0,"discourse, discourse parsing, parsing, rst, implicit discourse",2020-2023
+T2_medium,244,38,5,"multilabel, label, extreme multilabel, labels, extreme",2020-2023
+T2_medium,245,38,14,"fl, wireless, federated, edge, federated learning",2020-2023
+T2_medium,246,38,12,"theorem, provers, proof, prover, proofs",2020-2023
+T2_medium,247,37,3,"sketch, sketches, sketchbased, image retrieval, retrieval",2020-2023
+T2_medium,248,37,5,"hyperparameter, hpo, hyperparameters, optimization, tuning",2020-2023
+T2_medium,249,37,0,"annotators, conflict, annotator, crowdsourcing, annotation",2020-2023
+T2_medium,250,37,3,"gaze, gaze estimation, eye, pupil, eyetracking",2020-2023
+T2_medium,251,37,12,"game, games, agents, textbased, textbased games",2020-2023
+T2_medium,252,36,3,"driving, vehicles, autonomous, corner, safety",2020-2023
+T2_medium,253,36,0,"style, style transfer, text style, transfer, tst",2020-2023
+T2_medium,254,36,3,"remote sensing, remote, sensing, damage, imagery",2020-2023
+T2_medium,255,36,3,"sar, sar images, synthetic aperture, aperture, aperture radar",2020-2023
+T2_medium,256,36,3,"attention, attention module, attention mechanisms, attention mechanism, attention maps",2020-2023
+T2_medium,257,36,3,"quality assessment, quality, image quality, iqa, assessment",2020-2023
+T2_medium,258,36,5,"gnns, graph neural, gnn, explanations, graph",2020-2023
+T2_medium,259,36,0,"domain, adaptation, segmentation, domain adaptation, medical image",2020-2023
+T2_medium,260,36,12,"argumentation, semantics, abstract argumentation, arguments, argumentation frameworks",2020-2023
+T2_medium,261,36,0,"retrieval, dense, retro, query translation, passage retrieval",2020-2023
+T2_medium,262,35,3,"pose, relocalization, camera, pose regression, localization",2020-2023
+T2_medium,263,35,8,"food, recipes, recipe, dietary, cooking",2020-2023
+T2_medium,264,35,3,"compression, image compression, coding, learned image, ratedistortion",2020-2023
+T2_medium,265,35,3,"place recognition, place, vpr, visual place, descriptors",2020-2023
+T2_medium,266,35,0,"transfer learning, transfer, transferability, target task, target",2020-2023
+T2_medium,267,35,0,"video captioning, captioning, video, captions, dense video",2020-2023
+T2_medium,268,35,3,"visionlanguage, vlp, pretraining, visionlanguage pretraining, crossmodal",2020-2023
+T2_medium,269,34,0,"arabic, transliteration, languages, arabic language, african",2020-2023
+T2_medium,270,34,0,"stance, stance detection, detection, stances, social",2020-2023
+T2_medium,271,34,0,"weak supervision, weak, labeling, supervision, labels",2020-2023
+T2_medium,272,34,12,"sports, soccer, player, players, sport",2020-2023
+T2_medium,273,34,12,"distillation, kd, student, teacher, knowledge distillation",2020-2023
+T2_medium,274,34,5,"metric learning, metric, deep metric, dml, similarity",2020-2023
+T2_medium,275,34,0,"codemixed, sentiment, sentiment analysis, semeval2020, analysis codemixed",2020-2023
+T2_medium,276,34,12,"codemixed, codeswitched, codeswitching, cs, hinglish",2020-2023
+T2_medium,277,34,3,"3d, scene, 2d, 3d scene, object",2020-2023
+T2_medium,278,34,5,"feature selection, selection, feature, features, selection methods",2020-2023
+T2_medium,279,33,3,"inpainting, image inpainting, image, missing, texture",2020-2023
+T2_medium,280,33,12,"rl, reinforcement, reinforcement learning, gym, openai",2020-2023
+T2_medium,281,33,12,"robots, situated, collaborative, humanrobot, language instructions",2020-2023
+T2_medium,282,33,5,"communication, distributed, sgd, gradient, compression",2020-2023
+T2_medium,283,32,0,"recurrent, rnns, recurrent neural, rtrl, networks rnns",2020-2023
+T2_medium,284,32,0,"video summarization, video, summarization, summary, videos",2020-2023
+T2_medium,285,32,14,"privacy, federated, secure, federated learning, fl",2020-2023
+T2_medium,286,32,0,"citation, papers, scientific, scholarly, citations",2020-2023
+T2_medium,287,32,0,"sarcasm, sarcasm detection, sarcastic, sentiment, irony",2020-2023
+T2_medium,288,32,5,"pooling, padding, convolution, convolutional, receptive",2020-2023
+T2_medium,289,32,3,"lowlight, enhancement, image enhancement, lowlight image, color",2020-2023
+T2_medium,290,32,0,"personality, traits, personality traits, personality prediction, mbti",2020-2023
+T2_medium,291,31,3,"inverse, inverse design, design, inversion, wave",2020-2023
+T2_medium,292,31,5,"augmentation, data augmentation, augmentation methods, augmentation techniques, data",2020-2023
+T2_medium,293,31,0,"question generation, questions, question, generation, generated questions",2020-2023
+T2_medium,294,31,0,"sentiment, sentiment analysis, languages, african, african languages",2020-2023
+T2_medium,295,31,0,"gender, gender bias, translation, bias, machine translation",2020-2023
+T2_medium,296,31,5,"ensemble, ensembles, ensemble learning, ecoc, ensemble method",2020-2023
+T2_medium,297,31,7,"crack, road, cracks, pavement, road damage",2020-2023
+T2_medium,298,31,0,"persona, dialogue, personas, personabased, partner",2020-2023
+T2_medium,299,30,3,"iou, object, object detection, box, bounding",2020-2023
+T2_medium,300,30,0,"semantic change, change, lexical semantic, change detection, lexical",2020-2023
+T2_medium,301,30,3,"fewshot object, fewshot, fsod, object detection, object",2020-2023
+T2_medium,302,30,12,"knowledge graphs, knowledge graph, knowledge, graphs, osm",2020-2023
+T2_medium,303,30,3,"bev, perception, cooperative, vehicle, autonomous",2020-2023
+T2_medium,304,30,1,"xray, ct, baggage, prohibited, reconstruction",2020-2023
+T3_coarse,0,575,0,"dialogue, dialog, conversational, conversation, responses",2016-2020
+T3_coarse,1,486,3,"speech, speech recognition, acoustic, asr, recognition",2016-2020
+T3_coarse,2,444,0,"translation, machine translation, nmt, neural machine, machine",2016-2020
+T3_coarse,3,421,14,"adversarial, attacks, adversarial examples, attack, examples",2016-2020
+T3_coarse,4,375,3,"segmentation, ct, tumor, images, cancer",2016-2020
+T3_coarse,5,323,0,"word, embeddings, word embeddings, sense, words",2016-2020
+T3_coarse,6,274,5,"regret, bandit, bandits, multiarmed, arm",2016-2020
+T3_coarse,7,273,5,"graph, graphs, node, nodes, embedding",2016-2020
+T3_coarse,8,264,0,"question, comprehension, reading, answer, reading comprehension",2016-2020
+T3_coarse,9,250,12,"ai, intelligence, artificial, artificial intelligence, ethical",2016-2020
+T3_coarse,10,225,5,"networks, neural networks, neural, deep, functions",2016-2020
+T3_coarse,11,222,12,"knowledge graph, knowledge, knowledge graphs, graph, graphs",2016-2020
+T3_coarse,12,217,3,"action, action recognition, video, temporal, recognition",2016-2020
+T3_coarse,13,216,0,"domain, domain adaptation, adaptation, target, source",2016-2020
+T3_coarse,14,209,0,"gans, gan, generative, generative adversarial, adversarial networks",2016-2020
+T3_coarse,15,208,12,"explanations, explanation, explainable, interpretability, interpretable",2016-2020
+T3_coarse,16,203,0,"summarization, abstractive, summaries, extractive, summary",2016-2020
+T3_coarse,17,191,3,"segmentation, semantic segmentation, semantic, instance segmentation, instance",2016-2020
+T3_coarse,18,184,7,"anomaly, anomaly detection, detection, anomalies, outlier",2016-2020
+T3_coarse,19,182,12,"reasoning, logic, theorem, proof, logical",2016-2020
+T3_coarse,20,179,12,"asp, programming, answer set, sat, set programming",2016-2020
+T3_coarse,21,173,14,"privacy, federated, private, federated learning, differential privacy",2016-2020
+T3_coarse,22,169,3,"person, reidentification, person reidentification, reid, pedestrian",2016-2020
+T3_coarse,23,169,0,"parsing, dependency, parser, dependency parsing, parsers",2016-2020
+T3_coarse,24,166,3,"image, denoising, deblurring, imaging, reconstruction",2016-2020
+T3_coarse,25,165,12,"routing, problem, search, solutions, vehicle routing",2016-2020
+T3_coarse,26,152,3,"tracking, visual tracking, tracker, trackers, object",2016-2020
+T3_coarse,27,146,0,"sentiment, sentiment analysis, emotion, analysis, polarity",2016-2020
+T3_coarse,28,145,3,"object, object detection, detection, detectors, detector",2016-2020
+T3_coarse,29,140,1,"clinical, medical, biomedical, health, records",2016-2020
+T3_coarse,30,139,12,"causal, observational, variables, observational data, treatment",2016-2020
+T3_coarse,31,135,3,"3d, shape, point, point cloud, cloud",2016-2020
+T3_coarse,32,135,12,"reinforcement learning, reinforcement, reward, learning, robot",2016-2020
+T3_coarse,33,134,5,"quantization, quantized, weights, hardware, precision",2016-2020
+T3_coarse,34,133,0,"news, fake news, fake, stance, stance detection",2016-2020
+T3_coarse,35,132,3,"depth, stereo, depth estimation, monocular, estimation",2016-2020
+T3_coarse,36,130,12,"planning, plan, plans, planners, actions",2016-2020
+T3_coarse,37,125,0,"style, style transfer, transfer, sketch, styles",2016-2020
+T3_coarse,38,122,5,"gradient, stochastic, descent, sgd, gradient descent",2016-2020
+T3_coarse,39,120,0,"fairness, fair, discrimination, protected, machine learning",2016-2020
+T3_coarse,40,114,12,"ontology, ontologies, owl, web, semantic web",2016-2020
+T3_coarse,41,113,0,"relation, relation extraction, extraction, distant supervision, distant",2016-2020
+T3_coarse,42,112,3,"fewshot, metalearning, fewshot learning, fewshot classification, maml",2016-2020
+T3_coarse,43,111,6,"financial, forecasting, time series, series, fraud",2016-2020
+T3_coarse,44,109,12,"game, games, ai, video game, levels",2016-2020
+T3_coarse,45,108,12,"instructions, robot, navigation, robots, language",2016-2020
+T3_coarse,46,106,0,"vqa, visual question, question, visual, answering",2016-2020
+T3_coarse,47,104,1,"patients, clinical, health, care, patient",2016-2020
+T3_coarse,48,104,5,"convolutional, cnns, pooling, convolution, networks",2016-2020
+T3_coarse,49,104,12,"multiagent, agents, multiagent reinforcement, reinforcement, communication",2016-2020
+T3_coarse,50,103,12,"driving, traffic, autonomous, control, vehicles",2016-2020
+T3_coarse,51,103,3,"emotion, multimodal, emotion recognition, modalities, emotional",2016-2020
+T3_coarse,52,103,3,"saliency, salient, salient object, saliency maps, saliency map",2016-2020
+T3_coarse,53,103,12,"game, games, playing, player, players",2016-2020
+T3_coarse,54,100,4,"forgetting, catastrophic, catastrophic forgetting, continual, continual learning",2016-2020
+T3_coarse,55,100,12,"uncertainty, bayesian, calibration, gaussian, ensemble",2016-2020
+T3_coarse,56,96,3,"facial, expression, facial expression, expression recognition, pain",2016-2020
+T3_coarse,57,94,3,"camera, slam, pose, cameras, odometry",2016-2020
+T3_coarse,58,93,0,"captioning, image captioning, captions, image, caption",2016-2020
+T3_coarse,59,92,3,"remote sensing, remote, sensing, satellite, imagery",2016-2020
+T3_coarse,60,92,5,"bounds, mixture, bound, generalization, mixtures",2016-2020
+T3_coarse,61,91,3,"hashing, hash, codes, retrieval, hashing methods",2016-2020
+T3_coarse,62,91,0,"aspect, sentiment, reviews, sentiment analysis, aspectbased",2016-2020
+T3_coarse,63,90,3,"face, face recognition, recognition, faces, facial",2016-2020
+T3_coarse,64,89,5,"matrix, factorization, matrix factorization, lowrank, matrix completion",2016-2020
+T3_coarse,65,89,0,"hate, hate speech, offensive, speech, social",2016-2020
+T3_coarse,66,89,0,"music, poetry, musical, lyrics, poems",2016-2020
+T3_coarse,67,87,5,"recommendation, recommender, items, user, users",2016-2020
+T3_coarse,68,86,0,"generation, nlg, text generation, language generation, text",2016-2020
+T3_coarse,69,86,3,"lidar, 3d, 3d object, point, object detection",2016-2020
+T3_coarse,70,85,0,"latent, variational, vae, generative, autoencoders",2016-2020
+T3_coarse,71,85,5,"labels, label, noise, label noise, semisupervised",2016-2020
+T3_coarse,72,84,5,"topic, topics, topic models, topic modeling, topic model",2016-2020
+T3_coarse,73,84,5,"pruning, compression, sparsity, pruned, filters",2016-2020
+T3_coarse,74,82,5,"ensemble, imbalance, imbalanced, forest, oversampling",2016-2020
+T3_coarse,75,81,2,"fuzzy, rough, decision, fuzzy sets, fri",2016-2020
+T3_coarse,76,80,0,"recurrent, memory, rnn, recurrent neural, rnns",2016-2020
+T3_coarse,77,79,1,"molecules, molecular, protein, chemical, drug",2016-2020
+T3_coarse,78,77,3,"driving, trajectory, prediction, trajectory prediction, pedestrian",2016-2020
+T3_coarse,79,77,0,"language, language models, neural language, language modeling, lstm",2016-2020
+T3_coarse,80,77,12,"policy, policy gradient, actorcritic, gradient, policy optimization",2016-2020
+T3_coarse,81,76,3,"handwritten, character, characters, character recognition, recognition",2016-2020
+T3_coarse,82,76,0,"architecture search, search, nas, architecture, neural architecture",2016-2020
+T3_coarse,83,73,12,"exploration, rl, reinforcement, reinforcement learning, dqn",2016-2020
+T3_coarse,84,73,0,"gec, error correction, simplification, correction, grammatical",2016-2020
+T3_coarse,85,73,13,"fashion, clothing, aesthetics, visual, image",2016-2020
+T3_coarse,86,73,5,"clustering, kmeans, clusters, cluster, spectral clustering",2016-2020
+T3_coarse,87,72,0,"law, words, change, word, semantic change",2016-2020
+T3_coarse,88,72,5,"hyperparameter, optimization, bayesian optimization, bayesian, hyperparameters",2016-2020
+T3_coarse,89,70,5,"distributed, communication, sgd, convergence, gradient",2016-2020
+T3_coarse,90,70,5,"referring, visual, referring expression, relationships, objects",2016-2020
+T3_coarse,91,70,3,"denoising, compression, image, restoration, image denoising",2016-2020
+T3_coarse,92,69,0,"imagetoimage, imagetoimage translation, generative adversarial, image, generative",2016-2020
+T3_coarse,93,69,3,"face, facial, landmark, face detection, face alignment",2016-2020
+T3_coarse,94,68,3,"registration, image registration, deformation, image, symmetry",2016-2020
+T3_coarse,95,68,3,"pose, 3d, human pose, 3d human, pose estimation",2016-2020
+T3_coarse,96,68,12,"mdp, markov decision, markov, reward, policy",2016-2020
+T3_coarse,97,68,3,"hand, sign, gesture, hand pose, sign language",2016-2020
+T3_coarse,98,67,3,"superresolution, sr, image superresolution, image, hr",2016-2020
+T3_coarse,99,66,12,"belief, theory, dempstershafer, belief functions, evidence",2016-2020
+T3_coarse,100,66,3,"illumination, reflectance, color, lighting, light",2016-2020
+T3_coarse,101,65,12,"argumentation, arguments, semantics, argument, argumentation frameworks",2016-2020
+T3_coarse,102,65,4,"equations, differential, differential equations, physics, partial differential",2016-2020
+T3_coarse,103,65,12,"communication, emergent, language, agents, emergent communication",2016-2020
+T3_coarse,104,64,3,"traffic, traffic flow, prediction, flow, forecasting",2016-2020
+T3_coarse,105,62,3,"fingerprint, iris, biometric, minutiae, antispoofing",2016-2020
+T3_coarse,106,61,12,"argument, arguments, argumentative, argumentation, debate",2016-2020
+T3_coarse,107,59,12,"inverse reinforcement, imitation, irl, imitation learning, inverse",2016-2020
+T3_coarse,108,58,0,"morphological, languages, inflection, tagging, morphology",2016-2020
+T3_coarse,109,58,0,"crosslingual, multilingual, languages, language, bert",2016-2020
+T3_coarse,110,58,5,"online, submodular, regret, online learning, convex",2016-2020
+T3_coarse,111,58,0,"ner, named entity, entity, entity recognition, named",2016-2020
+T3_coarse,112,57,0,"sentiment, sentiment classification, sentiment analysis, domain, classification",2016-2020
+T3_coarse,113,57,0,"sql, semantic parsing, natural language, texttosql, semantic parser",2016-2020
+T3_coarse,114,56,7,"time series, series, time, series classification, warping",2016-2020
+T3_coarse,115,55,0,"entity, linking, entity linking, typing, mentions",2016-2020
+T3_coarse,116,54,12,"lifted, probabilistic, inference, probabilistic inference, relational",2016-2020
+T3_coarse,117,54,1,"medical, diagnosis, clinical, knowledge, expert",2016-2020
+T3_coarse,118,53,3,"skin, lesion, skin lesion, melanoma, isic",2016-2020
+T3_coarse,119,53,0,"bias, gender, gender bias, biases, word embeddings",2016-2020
+T3_coarse,120,52,3,"trajectory, mobility, traffic, urban, driving",2016-2020
+T3_coarse,121,52,12,"commonsense, commonsense reasoning, word problems, winograd, winograd schema",2016-2020
+T3_coarse,122,51,0,"authorship, authorship attribution, attribution, texts, personality",2016-2020
+T3_coarse,123,51,5,"multilabel, multilabel classification, label, labels, multilabel learning",2016-2020
+T3_coarse,124,51,5,"tensor, tensor completion, completion, lowrank, decomposition",2016-2020
+T3_coarse,125,50,3,"forgery, fake, forgery detection, videos, images",2016-2020
+T3_coarse,126,50,0,"answering, multihop, question answering, question, questions",2016-2020
+T3_coarse,127,50,6,"wind, forecasting, weather, power, wind power",2016-2020
+T3_coarse,128,50,6,"energy, consumption, energy consumption, power, smart",2016-2020
+T3_coarse,129,50,3,"pose, 6d, pose estimation, object pose, 6d pose",2016-2020
+T3_coarse,130,50,3,"retinal, fundus, oct, retinopathy, diabetic",2016-2020
+T3_coarse,131,49,3,"age, face, gender, face recognition, aging",2016-2020
+T3_coarse,132,49,3,"object segmentation, video, object, segmentation, video object",2016-2020
+T3_coarse,133,49,0,"sarcasm, humor, sarcastic, irony, detection",2016-2020
+T3_coarse,134,47,0,"dialog, visual, visual dialog, storytelling, sceneaware",2016-2020
+T3_coarse,135,47,0,"chinese, word segmentation, chinese word, word, segmentation",2016-2020
+T3_coarse,136,47,3,"background, surveillance, background subtraction, subtraction, detection",2016-2020
+T3_coarse,137,47,3,"rain, dehazing, haze, image dehazing, removal",2016-2020
+T3_coarse,138,47,3,"text, scene text, text detection, scene, text recognition",2016-2020
+T3_coarse,139,46,12,"epistemic, logic, coalition, epistemic planning, agents",2016-2020
+T3_coarse,140,46,7,"texture, defect, logo, defects, image",2016-2020
+T3_coarse,141,45,0,"bilingual, crosslingual, embeddings, crosslingual word, word",2016-2020
+T3_coarse,142,45,0,"discourse, implicit discourse, discourse relations, discourse relation, implicit",2016-2020
+T3_coarse,143,45,3,"flow, optical flow, optical, motion, flow estimation",2016-2020
+T3_coarse,144,45,8,"plant, leaf, crop, species, plants",2016-2020
+T3_coarse,145,45,5,"feature selection, selection, feature, support vector, support",2016-2020
+T3_coarse,146,45,5,"active learning, active, queries, learning, uncertainty sampling",2016-2020
+T3_coarse,147,44,3,"zsl, zeroshot, zeroshot learning, classes, unseen",2016-2020
+T3_coarse,148,44,5,"clustering, multiview, subspace clustering, subspace, views",2016-2020
+T3_coarse,149,43,3,"crowd, counting, crowd counting, density, count",2016-2020
+T3_coarse,150,43,12,"code, source code, program, source, code generation",2016-2020
+T3_coarse,151,43,0,"video, video summarization, video captioning, videos, captioning",2016-2020
+T3_coarse,152,43,3,"scene, 3d, indoor, object, shape",2016-2020
+T3_coarse,153,43,0,"event, extraction, events, event extraction, temporal",2016-2020
+T3_coarse,154,43,0,"conceptual, conceptual spaces, spaces, concepts, conceptual space",2016-2020
+T3_coarse,155,43,0,"srl, semantic role, role labeling, role, labeling",2016-2020
+T3_coarse,156,42,2,"quantum, quantum theory, interference, classical, theory",2016-2020
+T3_coarse,157,41,3,"skeleton, action recognition, action, human action, recognition",2016-2020
+T3_coarse,158,41,14,"adversarial, attacks, robustness, bert, examples",2016-2020
+T3_coarse,159,41,4,"brain, alzheimers, alzheimers disease, disease, ad",2016-2020
+T3_coarse,160,41,5,"dictionary, dictionary learning, sparse, dictionaries, sparse coding",2016-2020
+T3_coarse,161,40,0,"arabic, corpus, morphological, languages, sanskrit",2016-2020
+T3_coarse,162,40,0,"bert, distillation, pretrained, probing, language",2016-2020
+T3_coarse,163,40,12,"distillation, student, teacher, knowledge distillation, knowledge",2016-2020
+T3_coarse,164,40,3,"hyperspectral, spectral, hyperspectral image, hsi, hyperspectral images",2016-2020
+T3_coarse,165,40,4,"eeg, seizure, bci, eeg signals, signals",2016-2020
+T3_coarse,166,40,0,"face, facial, identity, faces, reenactment",2016-2020
+T3_coarse,167,40,3,"surgical, surgery, laparoscopic, instruments, workflow",2016-2020
+T3_coarse,168,39,3,"visual, object, object recognition, hierarchical, recognition",2016-2020
+T3_coarse,169,39,5,"kernel, kernels, fourier features, random fourier, fourier",2016-2020
+T3_coarse,170,38,12,"students, student, knowledge tracing, tracing, courses",2016-2020
+T3_coarse,171,38,12,"td, function approximation, offpolicy, temporal difference, approximation",2016-2020
+T3_coarse,172,38,0,"attention, brain, nlp, explanation, models",2016-2020
+T3_coarse,173,37,12,"mapf, path, path finding, pathfinding, multiagent",2016-2020
+T3_coarse,174,37,12,"machine learning, machine, ml, data science, reproducibility",2016-2020
+T3_coarse,175,37,0,"language inference, matching, nli, natural language, inference",2016-2020
+T3_coarse,176,36,9,"allocation, fair, preferences, division, voting",2016-2020
+T3_coarse,177,36,0,"citations, citation, wikipedia, articles, scientific",2016-2020
+T3_coarse,178,35,0,"text generation, generation, text, generative adversarial, generative",2016-2020
+T3_coarse,179,35,12,"program, program synthesis, programs, synthesis, inputoutput examples",2016-2020
+T3_coarse,180,35,5,"tensorflow, deep learning, frameworks, library, pytorch",2016-2020
+T3_coarse,181,35,0,"sentence, embeddings, tasks, multitask, multitask learning",2016-2020
+T3_coarse,182,35,3,"finegrained, finegrained image, classification, discriminative, parts",2016-2020
+T3_coarse,183,34,1,"clinical, patient, notes, medical, codes",2016-2020
+T3_coarse,184,34,5,"metric, metric learning, deep metric, distance, loss",2016-2020
+T3_coarse,185,34,0,"translation, machine translation, smt, indian, statistical machine",2016-2020
+T3_coarse,186,34,3,"activity, activity recognition, human activity, activities, recognition",2016-2020
+T3_coarse,187,34,0,"twitter, crisis, social, slang, tweets",2016-2020
+T3_coarse,188,32,12,"bayesian, bayesian network, bayesian networks, structure learning, structure",2016-2020
+T3_coarse,189,32,5,"ranking, rankings, items, preference, rank",2016-2020
+T3_coarse,190,32,12,"legal, court, legal domain, documents, law",2016-2020
+T3_coarse,191,32,0,"coreference, coreference resolution, resolution, mention, mentions",2016-2020
+T3_coarse,192,31,0,"latent, text generation, variational, text, vae",2016-2020
+T3_coarse,193,31,12,"ontology, datalog, queries, ontologies, query",2016-2020
+T3_coarse,194,31,3,"quality, image quality, quality assessment, iqa, illusions",2016-2020
+T3_coarse,195,31,5,"normalization, batch normalization, batch, dropout, regularization",2016-2020
+T3_coarse,196,30,12,"starcraft, game, rts, games, starcraft ii",2016-2020
+T3_coarse,197,30,3,"pose, pose estimation, multiperson, estimation, human pose",2016-2020
+T4_historic,0,819,12,"planning, policy, reinforcement, reinforcement learning, state",1998-2016
+T4_historic,1,562,3,"segmentation, image, images, image segmentation, edge",1998-2016
+T4_historic,2,480,5,"deep, networks, neural, neural networks, convolutional",1998-2016
+T4_historic,3,352,5,"regret, bandit, online, bandits, multiarmed",1998-2016
+T4_historic,4,340,3,"face, face recognition, recognition, facial, faces",1998-2016
+T4_historic,5,330,12,"intelligence, ai, artificial, cognitive, agents",1998-2016
+T4_historic,6,277,12,"ontology, web, ontologies, semantic, semantic web",1998-2016
+T4_historic,7,230,12,"logic, programs, answer, answer set, programming",1998-2016
+T4_historic,8,207,0,"texts, words, word, language, languages",1998-2016
+T4_historic,9,194,3,"tracking, tracker, object, object tracking, trackers",1998-2016
+T4_historic,10,188,5,"stochastic, gradient, optimization, descent, convergence",1998-2016
+T4_historic,11,183,6,"fuzzy, forecasting, prediction, data, energy",1998-2016
+T4_historic,12,172,5,"clustering, kmeans, cluster, clusters, clustering algorithm",1998-2016
+T4_historic,13,169,3,"speech, speech recognition, acoustic, recognition, speaker",1998-2016
+T4_historic,14,168,0,"grammar, parsing, grammars, parser, dependency",1998-2016
+T4_historic,15,167,0,"disambiguation, word, sense, semantic, sense disambiguation",1998-2016
+T4_historic,16,149,12,"causal, variables, independence, causal models, causal discovery",1998-2016
+T4_historic,17,144,0,"sentiment, sentiment analysis, polarity, twitter, reviews",1998-2016
+T4_historic,18,143,12,"multiobjective, evolutionary, optimization, ant, genetic",1998-2016
+T4_historic,19,138,0,"question, answering, question answering, answer, questions",1998-2016
+T4_historic,20,137,3,"action, action recognition, recognition, video, actions",1998-2016
+T4_historic,21,133,12,"sat, satisfiability, solvers, maxsat, instances",1998-2016
+T4_historic,22,133,0,"word, embeddings, representations, words, word embeddings",1998-2016
+T4_historic,23,133,3,"hyperspectral, fusion, image fusion, spectral, remote sensing",1998-2016
+T4_historic,24,132,0,"dialogue, discourse, dialog, conversational, conversation",1998-2016
+T4_historic,25,131,3,"handwritten, character, characters, recognition, character recognition",1998-2016
+T4_historic,26,129,0,"semantics, meaning, distributional, compositional, natural language",1998-2016
+T4_historic,27,128,3,"object, object detection, detection, proposals, proposal",1998-2016
+T4_historic,28,126,3,"segmentation, semantic segmentation, semantic, convolutional, image",1998-2016
+T4_historic,29,126,3,"fingerprint, biometric, iris, signature, palmprint",1998-2016
+T4_historic,30,125,2,"fuzzy, neutrosophic, fuzzy sets, decision, soft",1998-2016
+T4_historic,31,124,5,"topic, topic models, lda, topics, topic modeling",1998-2016
+T4_historic,32,123,12,"bayesian, bayesian networks, bayesian network, learning bayesian, networks",1998-2016
+T4_historic,33,117,3,"saliency, salient, gaze, salient object, eye",1998-2016
+T4_historic,34,115,5,"tensor, mixture, mixtures, gaussians, mixture models",1998-2016
+T4_historic,35,114,5,"dictionary, sparse, dictionary learning, coding, sparse coding",1998-2016
+T4_historic,36,114,3,"hashing, hash, codes, binary, quantization",1998-2016
+T4_historic,37,110,0,"descriptions, captioning, video, visual, captions",1998-2016
+T4_historic,38,108,3,"compressive, sensing, reconstruction, compressive sensing, imaging",1998-2016
+T4_historic,39,106,12,"constraint, constraints, consistency, arc consistency, arc",1998-2016
+T4_historic,40,103,5,"feature selection, feature, selection, cancer, classification",1998-2016
+T4_historic,41,103,12,"belief propagation, bp, bethe, propagation, belief",1998-2016
+T4_historic,42,100,12,"evidence, belief, dempstershafer, theory, belief functions",1998-2016
+T4_historic,43,98,12,"lifted, probabilistic, logic, inference, logic programming",1998-2016
+T4_historic,44,97,3,"filter, noise, denoising, bilateral, filters",1998-2016
+T4_historic,45,96,0,"neural, language, sentence, recurrent, recurrent neural",1998-2016
+T4_historic,46,96,12,"game, games, chess, players, player",1998-2016
+T4_historic,47,92,3,"pose, pose estimation, estimation, body, human pose",1998-2016
+T4_historic,48,91,12,"entities, knowledge, entity, relation, coreference",1998-2016
+T4_historic,49,91,7,"texture, fractal, scattering, texture classification, leaf",1998-2016
+T4_historic,50,90,0,"arabic, morphological, language, correction, spelling",1998-2016
+T4_historic,51,88,5,"variational, inference, latent, posterior, bayesian",1998-2016
+T4_historic,52,88,5,"metric, metric learning, distance, learning, distance metric",1998-2016
+T4_historic,53,85,5,"clustering, subspace, subspace clustering, subspaces, spectral clustering",1998-2016
+T4_historic,54,83,5,"lasso, sparse, sparsity, regularization, regression",1998-2016
+T4_historic,55,80,12,"bayesian networks, bayesian, networks, inference, map",1998-2016
+T4_historic,56,79,12,"belief, belief networks, networks, belief network, inference",1998-2016
+T4_historic,57,79,0,"domain, adaptation, domain adaptation, target domain, target",1998-2016
+T4_historic,58,77,5,"recommender, recommendation, users, factorization, collaborative",1998-2016
+T4_historic,59,76,12,"revision, belief, belief revision, belief change, change",1998-2016
+T4_historic,60,74,5,"active learning, active, learning, label, label complexity",1998-2016
+T4_historic,61,74,12,"logic, action, actions, temporal, reasoning",1998-2016
+T4_historic,62,74,3,"restoration, deconvolution, deblurring, blur, image",1998-2016
+T4_historic,63,74,3,"camera, cameras, calibration, reconstruction, motion",1998-2016
+T4_historic,64,70,3,"shape, shapes, 3d, retrieval, matching",1998-2016
+T4_historic,65,69,3,"3d, object, scene, objects, shape",1998-2016
+T4_historic,66,65,2,"rough, rough sets, matroids, rough set, covering",1998-2016
+T4_historic,67,65,5,"matrix, matrix completion, completion, lowrank, lowrank matrix",1998-2016
+T4_historic,68,64,0,"boltzmann, generative, restricted boltzmann, rbm, boltzmann machines",1998-2016
+T4_historic,69,64,4,"eeg, brain, fmri, bci, functional",1998-2016
+T4_historic,70,64,0,"temporal, events, clinical, extraction, event",1998-2016
+T4_historic,71,62,7,"anomaly, anomaly detection, detection, outlier, outliers",1998-2016
+T4_historic,72,62,5,"autoencoders, autoencoder, deep, denoising, unsupervised",1998-2016
+T4_historic,73,61,0,"translation, machine translation, machine, statistical machine, mt",1998-2016
+T4_historic,74,61,5,"classifier, cost, roc, measures, classifiers",1998-2016
+T4_historic,75,58,3,"facial, expression, facial expression, expression recognition, expressions",1998-2016
+T4_historic,76,58,5,"svm, svms, support vector, support, margin",1998-2016
+T4_historic,77,58,0,"summarization, summaries, multidocument, document, summary",1998-2016
+T4_historic,78,58,5,"kernel, multitask, kernel learning, kernels, multiple kernel",1998-2016
+T4_historic,79,58,2,"influence, influence diagrams, diagrams, diagram, influence diagram",1998-2016
+T4_historic,80,57,14,"privacy, private, differential privacy, differentially, differential",1998-2016
+T4_historic,81,56,7,"immune, intrusion, dca, dendritic, intrusion detection",1998-2016
+T4_historic,82,55,7,"diagnosis, diagnostic, fault, repair, failure",1998-2016
+T4_historic,83,54,3,"color, image, image quality, quality, quality assessment",1998-2016
+T4_historic,84,54,5,"functions, pac, learning, vc, queries",1998-2016
+T4_historic,85,54,3,"video, frames, videos, motion, visual",1998-2016
+T4_historic,86,52,9,"voting, manipulation, voting rules, coalition, election",1998-2016
+T4_historic,87,51,3,"text, scene text, text detection, scene, text recognition",1998-2016
+T4_historic,88,50,12,"argumentation, arguments, abstract argumentation, semantics, abstract",1998-2016
+T4_historic,89,50,3,"traffic, road, vehicle, vehicles, detection",1998-2016
+T4_historic,90,48,2,"uncertainty, possibility, utility, probability, theory",1998-2016
+T4_historic,91,48,0,"annotation, formats, tools, language, xml",1998-2016
+T4_historic,92,48,0,"tagger, tagging, pos, taggers, partofspeech",1998-2016
+T4_historic,93,47,0,"style, generative, adversarial, color, colorization",1998-2016
+T4_historic,94,47,5,"sequence, prediction, computable, universal, sequence prediction",1998-2016
+T4_historic,95,47,3,"registration, image registration, image, deformation, images",1998-2016
+T4_historic,96,47,7,"time series, series, time, timeseries, motifs",1998-2016
+T4_historic,97,46,0,"translation, machine translation, neural machine, nmt, neural",1998-2016
+T4_historic,98,46,12,"scheduling, search, problem, timetabling, tabu",1998-2016
+T4_historic,99,45,3,"3d, matching, point, pose, registration",1998-2016
+T4_historic,100,44,0,"crowdsourcing, workers, labels, worker, crowd",1998-2016
+T4_historic,101,44,3,"sign, sign language, gesture, hand, gestures",1998-2016
+T4_historic,102,44,3,"superresolution, sr, resolution, super resolution, image superresolution",1998-2016
+T4_historic,103,44,3,"reidentification, person, person reidentification, matching, metric",1998-2016
+T4_historic,104,44,3,"tags, tag, image, annotation, image annotation",1998-2016
+T4_historic,105,43,0,"nonmonotonic, logic, logics, default, preferential",1998-2016
+T4_historic,106,43,5,"pca, principal, principal component, component analysis, component",1998-2016
+T4_historic,107,42,5,"manifold, manifolds, spd, riemannian, spd matrices",1998-2016
+T4_historic,108,41,12,"proofs, proof, automated, mathematical, automated reasoning",1998-2016
+T4_historic,109,41,7,"gaussian, gp, gaussian process, gaussian processes, regression",1998-2016
+T4_historic,110,41,5,"ranking, rank, pairwise comparisons, comparisons, pairwise",1998-2016
+T4_historic,111,40,5,"boosting, adaboost, multiclass, boosting algorithms, margin",1998-2016
+T4_historic,112,40,3,"background, foreground, subtraction, background subtraction, video",1998-2016
+T4_historic,113,39,2,"radio, allocation, channel, users, cognitive radio",1998-2016
+T4_historic,114,38,0,"answering, question, question answering, visual question, questions",1998-2016
+T4_historic,115,36,1,"patients, clinical, drug, patient, health",1998-2016
+T4_historic,116,36,3,"zeroshot, zeroshot learning, semantic, unseen, classes",1998-2016
+T4_historic,117,36,5,"unlabeled, semisupervised, unlabeled data, semisupervised learning, labeled",1998-2016
+T4_historic,118,35,2,"preference, preferences, elicitation, utility, cpnets",1998-2016
+T4_historic,119,34,5,"ensemble, diversity, classifiers, ensembles, classifier",1998-2016
+T4_historic,120,34,3,"reflectance, surface, light, illumination, range",1998-2016
+T4_historic,121,34,12,"hidden, hidden markov, hmms, markov, markov models",1998-2016
+T4_historic,122,33,5,"multilabel, multilabel classification, label, labels, multilabel learning",1998-2016
+T4_historic,123,33,5,"user, recommendation, feedback, items, bandits",1998-2016
+T4_historic,124,33,0,"music, musical, composition, recurrent, model",1998-2016
+T4_historic,125,33,2,"quantum, concepts, quantum theory, cognition, theory",1998-2016
+T4_historic,126,32,3,"binarization, text, document, images, document image",1998-2016
+T4_historic,127,32,9,"auctions, auction, price, bidding, advertising",1998-2016
+T4_historic,128,32,7,"mining, patterns, frequent, pattern, pattern mining",1998-2016
+T4_historic,129,32,3,"visual, object recognition, retina, recognition, vision",1998-2016
+T4_historic,130,31,0,"translation, corpora, parallel, comparable corpora, bilingual",1998-2016
+T4_historic,131,31,5,"manifold, manifold learning, laplacian, semisupervised, embedding",1998-2016
+T4_historic,132,30,5,"graph, semisupervised learning, semisupervised, constraint propagation, propagation",1998-2016
+T4_historic,133,30,3,"pedestrian, pedestrian detection, detection, caltech, features",1998-2016

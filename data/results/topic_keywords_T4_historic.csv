@@ -1,0 +1,1341 @@
+﻿topic_id,rank,keyword,weight
+0,1,planning,0.02359
+0,2,policy,0.016519
+0,3,reinforcement,0.015973
+0,4,reinforcement learning,0.015732
+0,5,state,0.010312
+0,6,search,0.009809
+0,7,markov decision,0.009573
+0,8,value,0.009493
+0,9,learning,0.009376
+0,10,plan,0.009184
+1,1,segmentation,0.026126
+1,2,image,0.015501
+1,3,images,0.011941
+1,4,image segmentation,0.01191
+1,5,edge,0.008586
+1,6,detection,0.008081
+1,7,method,0.006861
+1,8,medical,0.006489
+1,9,cancer,0.006247
+1,10,brain,0.006099
+2,1,deep,0.020097
+2,2,networks,0.01897
+2,3,neural,0.017863
+2,4,neural networks,0.016618
+2,5,convolutional,0.01507
+2,6,network,0.011844
+2,7,layers,0.011185
+2,8,training,0.011079
+2,9,convolutional neural,0.010031
+2,10,deep neural,0.008985
+3,1,regret,0.038106
+3,2,bandit,0.02293
+3,3,online,0.022085
+3,4,bandits,0.017709
+3,5,multiarmed,0.014552
+3,6,bounds,0.013299
+3,7,optimization,0.012901
+3,8,online learning,0.012804
+3,9,bound,0.01265
+3,10,algorithm,0.012254
+4,1,face,0.063295
+4,2,face recognition,0.031394
+4,3,recognition,0.021433
+4,4,facial,0.018375
+4,5,faces,0.01388
+4,6,face images,0.01253
+4,7,images,0.012148
+4,8,face detection,0.010039
+4,9,skin,0.009715
+4,10,pose,0.008819
+5,1,intelligence,0.028578
+5,2,ai,0.019265
+5,3,artificial,0.017268
+5,4,cognitive,0.014922
+5,5,agents,0.011652
+5,6,artificial intelligence,0.011583
+5,7,human,0.011333
+5,8,systems,0.01077
+5,9,universal,0.010455
+5,10,brain,0.009931
+6,1,ontology,0.043974
+6,2,web,0.030789
+6,3,ontologies,0.029762
+6,4,semantic,0.021575
+6,5,semantic web,0.021082
+6,6,knowledge,0.020744
+6,7,owl,0.014112
+6,8,services,0.013779
+6,9,rdf,0.011627
+6,10,rules,0.011548
+7,1,logic,0.043392
+7,2,programs,0.041534
+7,3,answer,0.037466
+7,4,answer set,0.035015
+7,5,programming,0.033685
+7,6,asp,0.030908
+7,7,logic programs,0.027808
+7,8,semantics,0.027137
+7,9,set programming,0.023253
+7,10,stable,0.019376
+8,1,texts,0.022785
+8,2,words,0.022551
+8,3,word,0.020049
+8,4,language,0.019674
+8,5,languages,0.017524
+8,6,length,0.014538
+8,7,law,0.013211
+8,8,authorship,0.01271
+8,9,linguistic,0.012621
+8,10,frequency,0.01207
+9,1,tracking,0.059396
+9,2,tracker,0.017946
+9,3,object,0.017897
+9,4,object tracking,0.014368
+9,5,trackers,0.01316
+9,6,visual tracking,0.012806
+9,7,crowd,0.011864
+9,8,appearance,0.011661
+9,9,particle,0.010586
+9,10,target,0.010336
+10,1,stochastic,0.025763
+10,2,gradient,0.021732
+10,3,optimization,0.021101
+10,4,descent,0.019404
+10,5,convergence,0.01922
+10,6,convex,0.016251
+10,7,functions,0.014161
+10,8,gradient descent,0.013862
+10,9,distributed,0.013785
+10,10,submodular,0.01373
+11,1,fuzzy,0.017581
+11,2,forecasting,0.013865
+11,3,prediction,0.012681
+11,4,data,0.010197
+11,5,energy,0.010171
+11,6,data mining,0.009965
+11,7,time series,0.009213
+11,8,mining,0.009
+11,9,stock,0.008823
+11,10,power,0.008607
+12,1,clustering,0.060577
+12,2,kmeans,0.030749
+12,3,cluster,0.026455
+12,4,clusters,0.022377
+12,5,clustering algorithm,0.017129
+12,6,algorithm,0.014585
+12,7,data,0.013737
+12,8,clustering algorithms,0.011823
+12,9,points,0.011692
+12,10,kmeans algorithm,0.010096
+13,1,speech,0.057629
+13,2,speech recognition,0.036836
+13,3,acoustic,0.02703
+13,4,recognition,0.022717
+13,5,speaker,0.021805
+13,6,dnn,0.012974
+13,7,automatic speech,0.011776
+13,8,phoneme,0.010966
+13,9,neural,0.010543
+13,10,asr,0.009877
+14,1,grammar,0.041347
+14,2,parsing,0.038938
+14,3,grammars,0.031862
+14,4,parser,0.029906
+14,5,dependency,0.018061
+14,6,language,0.017875
+14,7,syntactic,0.017478
+14,8,parsers,0.016535
+14,9,sentences,0.015236
+14,10,parse,0.015012
+15,1,disambiguation,0.021883
+15,2,word,0.021799
+15,3,sense,0.020245
+15,4,semantic,0.019908
+15,5,sense disambiguation,0.018673
+15,6,word sense,0.01839
+15,7,lexical,0.017806
+15,8,wordnet,0.016615
+15,9,similarity,0.015294
+15,10,words,0.014975
+16,1,causal,0.083826
+16,2,variables,0.029572
+16,3,independence,0.017883
+16,4,causal models,0.016556
+16,5,causal discovery,0.015778
+16,6,models,0.014536
+16,7,acyclic,0.013856
+16,8,directed,0.01384
+16,9,discovery,0.013659
+16,10,graphs,0.012932
+17,1,sentiment,0.066614
+17,2,sentiment analysis,0.035225
+17,3,polarity,0.023991
+17,4,twitter,0.022477
+17,5,reviews,0.022289
+17,6,tweets,0.019884
+17,7,opinion,0.01889
+17,8,analysis,0.018093
+17,9,social,0.016689
+17,10,opinions,0.014166
+18,1,multiobjective,0.020676
+18,2,evolutionary,0.01873
+18,3,optimization,0.018261
+18,4,ant,0.016488
+18,5,genetic,0.014983
+18,6,local search,0.013977
+18,7,problem,0.013847
+18,8,search,0.013669
+18,9,algorithm,0.012044
+18,10,colony,0.011277
+19,1,question,0.032886
+19,2,answering,0.027901
+19,3,question answering,0.027469
+19,4,answer,0.022618
+19,5,questions,0.021055
+19,6,natural language,0.016312
+19,7,sentence,0.015538
+19,8,neural,0.014153
+19,9,natural,0.013867
+19,10,answers,0.013071
+20,1,action,0.056783
+20,2,action recognition,0.040306
+20,3,recognition,0.022958
+20,4,video,0.019418
+20,5,actions,0.016117
+20,6,videos,0.015561
+20,7,human,0.015186
+20,8,human action,0.01492
+20,9,temporal,0.014806
+20,10,activity,0.012896
+21,1,sat,0.05425
+21,2,satisfiability,0.023574
+21,3,solvers,0.023174
+21,4,maxsat,0.021947
+21,5,instances,0.021285
+21,6,boolean,0.020044
+21,7,solver,0.02
+21,8,solving,0.017663
+21,9,clauses,0.015759
+21,10,csp,0.015455
+22,1,word,0.050143
+22,2,embeddings,0.029834
+22,3,representations,0.023488
+22,4,words,0.0216
+22,5,word embeddings,0.020284
+22,6,semantic,0.019016
+22,7,word representations,0.018956
+22,8,embedding,0.017442
+22,9,analogy,0.016703
+22,10,similarity,0.015494
+23,1,hyperspectral,0.046858
+23,2,fusion,0.030529
+23,3,image fusion,0.023922
+23,4,spectral,0.021446
+23,5,remote sensing,0.018117
+23,6,remote,0.017763
+23,7,image,0.01769
+23,8,hyperspectral images,0.017264
+23,9,images,0.017129
+23,10,sensing,0.014659
+24,1,dialogue,0.060101
+24,2,discourse,0.03424
+24,3,dialog,0.028516
+24,4,conversational,0.014625
+24,5,conversation,0.014162
+24,6,dialogue systems,0.01354
+24,7,language,0.013035
+24,8,dialogues,0.012817
+24,9,generation,0.012584
+24,10,spoken,0.01254
+25,1,handwritten,0.056093
+25,2,character,0.04874
+25,3,characters,0.036126
+25,4,recognition,0.035259
+25,5,character recognition,0.031674
+25,6,script,0.026885
+25,7,handwriting,0.021135
+25,8,arabic,0.020646
+25,9,bangla,0.018933
+25,10,ocr,0.017746
+26,1,semantics,0.033696
+26,2,meaning,0.030063
+26,3,distributional,0.023171
+26,4,compositional,0.022133
+26,5,natural language,0.020934
+26,6,language,0.020532
+26,7,calculus,0.018155
+26,8,entailment,0.017583
+26,9,natural,0.017513
+26,10,categorical,0.01574
+27,1,object,0.045504
+27,2,object detection,0.029797
+27,3,detection,0.025686
+27,4,proposals,0.022333
+27,5,proposal,0.019481
+27,6,localization,0.017275
+27,7,finegrained,0.016791
+27,8,rcnn,0.014158
+27,9,pascal,0.013491
+27,10,object proposals,0.012422
+28,1,segmentation,0.033242
+28,2,semantic segmentation,0.028445
+28,3,semantic,0.024976
+28,4,convolutional,0.015206
+28,5,image,0.012026
+28,6,deep,0.011972
+28,7,pascal,0.011914
+28,8,object,0.011814
+28,9,voc,0.011017
+28,10,pascal voc,0.010746
+29,1,fingerprint,0.050679
+29,2,biometric,0.043981
+29,3,iris,0.038804
+29,4,signature,0.024598
+29,5,palmprint,0.017329
+29,6,minutiae,0.016578
+29,7,recognition,0.016025
+29,8,authentication,0.015096
+29,9,fingerprints,0.015015
+29,10,identification,0.014322
+30,1,fuzzy,0.069507
+30,2,neutrosophic,0.041615
+30,3,fuzzy sets,0.024018
+30,4,decision,0.019098
+30,5,soft,0.018136
+30,6,sets,0.016562
+30,7,decision making,0.016476
+30,8,cbr,0.013799
+30,9,making,0.013792
+30,10,grey,0.012272
+31,1,topic,0.070899
+31,2,topic models,0.03107
+31,3,lda,0.030377
+31,4,topics,0.030137
+31,5,topic modeling,0.026111
+31,6,latent,0.021791
+31,7,dirichlet,0.020228
+31,8,latent dirichlet,0.018055
+31,9,dirichlet allocation,0.017953
+31,10,modeling,0.01732
+32,1,bayesian,0.039714
+32,2,bayesian networks,0.029206
+32,3,bayesian network,0.026149
+32,4,learning bayesian,0.021203
+32,5,networks,0.020753
+32,6,variables,0.019929
+32,7,structure,0.018716
+32,8,network,0.018578
+32,9,structure learning,0.01498
+32,10,network structure,0.012691
+33,1,saliency,0.07279
+33,2,salient,0.034153
+33,3,gaze,0.025566
+33,4,salient object,0.024927
+33,5,eye,0.024045
+33,6,detection,0.016976
+33,7,object,0.015034
+33,8,attention,0.014491
+33,9,object detection,0.014197
+33,10,visual,0.014186
+34,1,tensor,0.041896
+34,2,mixture,0.034728
+34,3,mixtures,0.01771
+34,4,gaussians,0.013626
+34,5,mixture models,0.013074
+34,6,clustering,0.013024
+34,7,gaussian,0.011685
+34,8,data,0.010731
+34,9,models,0.010702
+34,10,decomposition,0.010417
+35,1,dictionary,0.055497
+35,2,sparse,0.042081
+35,3,dictionary learning,0.031287
+35,4,coding,0.020274
+35,5,sparse coding,0.020249
+35,6,sparse representation,0.017895
+35,7,dictionaries,0.017643
+35,8,learning,0.013639
+35,9,representation,0.013179
+35,10,sparsity,0.011448
+36,1,hashing,0.060457
+36,2,hash,0.037838
+36,3,codes,0.02918
+36,4,binary,0.023577
+36,5,quantization,0.021329
+36,6,binary codes,0.020551
+36,7,hash functions,0.015545
+36,8,search,0.015365
+36,9,retrieval,0.014822
+36,10,nearest,0.013567
+37,1,descriptions,0.022585
+37,2,captioning,0.020797
+37,3,video,0.020519
+37,4,visual,0.017902
+37,5,captions,0.016774
+37,6,sentence,0.016132
+37,7,description,0.016071
+37,8,image,0.015123
+37,9,caption,0.014708
+37,10,multimodal,0.01366
+38,1,compressive,0.037583
+38,2,sensing,0.033711
+38,3,reconstruction,0.030956
+38,4,compressive sensing,0.023822
+38,5,imaging,0.023097
+38,6,measurements,0.019706
+38,7,cs,0.01811
+38,8,recovery,0.0162
+38,9,image,0.012891
+38,10,signal,0.012711
+39,1,constraint,0.069438
+39,2,constraints,0.050539
+39,3,consistency,0.039464
+39,4,arc consistency,0.024935
+39,5,arc,0.024213
+39,6,global constraints,0.02359
+39,7,satisfaction,0.023194
+39,8,constraint satisfaction,0.023173
+39,9,propagation,0.019796
+39,10,global,0.01967
+40,1,feature selection,0.036913
+40,2,feature,0.030694
+40,3,selection,0.028306
+40,4,cancer,0.015999
+40,5,classification,0.015182
+40,6,data,0.012791
+40,7,features,0.012257
+40,8,accuracy,0.010048
+40,9,disease,0.00895
+40,10,mutual information,0.008711
+41,1,belief propagation,0.031441
+41,2,bp,0.027439
+41,3,bethe,0.026682
+41,4,propagation,0.026414
+41,5,belief,0.022146
+41,6,free energy,0.020679
+41,7,graphical,0.019287
+41,8,free,0.018153
+41,9,bethe free,0.017279
+41,10,map,0.017128
+42,1,evidence,0.045955
+42,2,belief,0.045846
+42,3,dempstershafer,0.042799
+42,4,theory,0.036268
+42,5,belief functions,0.031124
+42,6,dempstershafer theory,0.031022
+42,7,evidential,0.029025
+42,8,probability,0.022521
+42,9,functions,0.021338
+42,10,beliefs,0.019347
+43,1,lifted,0.034722
+43,2,probabilistic,0.032499
+43,3,logic,0.030856
+43,4,inference,0.030412
+43,5,logic programming,0.020643
+43,6,relational,0.017759
+43,7,probabilistic logic,0.017745
+43,8,programs,0.017725
+43,9,programming,0.016764
+43,10,logic programs,0.014434
+44,1,filter,0.047313
+44,2,noise,0.037318
+44,3,denoising,0.031176
+44,4,bilateral,0.031152
+44,5,filters,0.030138
+44,6,filtering,0.027613
+44,7,nlm,0.022976
+44,8,bilateral filter,0.020098
+44,9,median,0.019339
+44,10,image,0.019189
+45,1,neural,0.021644
+45,2,language,0.020494
+45,3,sentence,0.020453
+45,4,recurrent,0.019742
+45,5,recurrent neural,0.019121
+45,6,lstm,0.017455
+45,7,models,0.015759
+45,8,sequence,0.015701
+45,9,language models,0.015444
+45,10,neural network,0.014356
+46,1,game,0.05216
+46,2,games,0.04214
+46,3,chess,0.034559
+46,4,players,0.02252
+46,5,player,0.018062
+46,6,playing,0.016819
+46,7,poker,0.014573
+46,8,alphabeta,0.014287
+46,9,search,0.014124
+46,10,play,0.01411
+47,1,pose,0.05123
+47,2,pose estimation,0.04003
+47,3,estimation,0.026118
+47,4,body,0.026065
+47,5,human pose,0.025259
+47,6,hand,0.023037
+47,7,human,0.022155
+47,8,3d,0.017376
+47,9,kinect,0.017093
+47,10,poses,0.014207
+48,1,entities,0.028571
+48,2,knowledge,0.027517
+48,3,entity,0.026445
+48,4,relation,0.018751
+48,5,coreference,0.018244
+48,6,knowledge graph,0.017638
+48,7,relational,0.017241
+48,8,embedding,0.016667
+48,9,knowledge graphs,0.015056
+48,10,relations,0.014827
+49,1,texture,0.053166
+49,2,fractal,0.021806
+49,3,scattering,0.021034
+49,4,texture classification,0.016906
+49,5,leaf,0.016666
+49,6,classification,0.014992
+49,7,fractal dimension,0.014277
+49,8,plants,0.013179
+49,9,texture analysis,0.012913
+49,10,defect,0.012913
+50,1,arabic,0.049275
+50,2,morphological,0.034242
+50,3,language,0.027532
+50,4,correction,0.025469
+50,5,spelling,0.02094
+50,6,words,0.019345
+50,7,text,0.018827
+50,8,error correction,0.016829
+50,9,analyzer,0.016182
+50,10,sindhi,0.015828
+51,1,variational,0.021831
+51,2,inference,0.020879
+51,3,latent,0.020682
+51,4,posterior,0.015971
+51,5,bayesian,0.015075
+51,6,models,0.012985
+51,7,gibbs,0.012738
+51,8,sampling,0.012713
+51,9,mcmc,0.012606
+51,10,mean field,0.011959
+52,1,metric,0.051684
+52,2,metric learning,0.04759
+52,3,distance,0.023082
+52,4,learning,0.019929
+52,5,distance metric,0.019111
+52,6,similarity,0.018094
+52,7,mahalanobis,0.013593
+52,8,neighbor,0.012889
+52,9,kernel,0.011747
+52,10,nearest,0.011118
+53,1,clustering,0.052985
+53,2,subspace,0.051418
+53,3,subspace clustering,0.04099
+53,4,subspaces,0.034308
+53,5,spectral clustering,0.025042
+53,6,spectral,0.023002
+53,7,data,0.016272
+53,8,ssc,0.015662
+53,9,matrix,0.014096
+53,10,sparse,0.013831
+54,1,lasso,0.039816
+54,2,sparse,0.025872
+54,3,sparsity,0.018551
+54,4,regularization,0.017882
+54,5,regression,0.017522
+54,6,group,0.015897
+54,7,group lasso,0.014532
+54,8,screening,0.012667
+54,9,convex,0.01221
+54,10,norm,0.012097
+55,1,bayesian networks,0.033484
+55,2,bayesian,0.033031
+55,3,networks,0.025044
+55,4,inference,0.019499
+55,5,map,0.017829
+55,6,bayesian network,0.01634
+55,7,network,0.015922
+55,8,junction,0.015707
+55,9,clique,0.015126
+55,10,probability,0.014997
+56,1,belief,0.048805
+56,2,belief networks,0.047789
+56,3,networks,0.031078
+56,4,belief network,0.028754
+56,5,inference,0.024289
+56,6,network,0.021364
+56,7,probabilistic,0.021253
+56,8,bayesian belief,0.018643
+56,9,probabilities,0.017718
+56,10,bayesian,0.017199
+57,1,domain,0.054462
+57,2,adaptation,0.045113
+57,3,domain adaptation,0.042873
+57,4,target domain,0.027583
+57,5,target,0.027217
+57,6,source,0.02583
+57,7,source domain,0.017887
+57,8,transfer,0.015603
+57,9,domains,0.013864
+57,10,elm,0.013592
+58,1,recommender,0.037539
+58,2,recommendation,0.033632
+58,3,users,0.02825
+58,4,factorization,0.027095
+58,5,collaborative,0.026519
+58,6,recommender systems,0.02631
+58,7,collaborative filtering,0.024616
+58,8,items,0.023954
+58,9,user,0.023528
+58,10,ratings,0.021441
+59,1,revision,0.10709
+59,2,belief,0.07729
+59,3,belief revision,0.045335
+59,4,belief change,0.037524
+59,5,change,0.036941
+59,6,postulates,0.02592
+59,7,update,0.025828
+59,8,beliefs,0.025432
+59,9,operators,0.024961
+59,10,logic,0.023164
+60,1,active learning,0.083346
+60,2,active,0.07757
+60,3,learning,0.023054
+60,4,label,0.016594
+60,5,label complexity,0.014346
+60,6,queries,0.010119
+60,7,greedy,0.009691
+60,8,al,0.009271
+60,9,submodular,0.009267
+60,10,algorithm,0.008718
+61,1,logic,0.031936
+61,2,action,0.029503
+61,3,actions,0.023394
+61,4,temporal,0.021806
+61,5,reasoning,0.021215
+61,6,agent,0.016842
+61,7,agents,0.016663
+61,8,knowledge,0.01435
+61,9,action theory,0.013895
+61,10,semantics,0.012506
+62,1,restoration,0.030992
+62,2,deconvolution,0.030517
+62,3,deblurring,0.030435
+62,4,blur,0.029993
+62,5,image,0.022352
+62,6,image restoration,0.022019
+62,7,blind,0.021473
+62,8,blind deconvolution,0.016564
+62,9,poisson,0.014881
+62,10,denoising,0.01385
+63,1,camera,0.046952
+63,2,cameras,0.036477
+63,3,calibration,0.025187
+63,4,reconstruction,0.016313
+63,5,motion,0.015034
+63,6,epipolar,0.014377
+63,7,geometry,0.013467
+63,8,points,0.01326
+63,9,3d,0.013243
+63,10,projection,0.013025
+64,1,shape,0.068508
+64,2,shapes,0.036668
+64,3,3d,0.020736
+64,4,retrieval,0.017823
+64,5,matching,0.017653
+64,6,shape retrieval,0.017174
+64,7,correspondence,0.014938
+64,8,2d,0.013765
+64,9,invariants,0.013321
+64,10,3d shape,0.012548
+65,1,3d,0.0517
+65,2,object,0.028062
+65,3,scene,0.018066
+65,4,objects,0.017603
+65,5,shape,0.016272
+65,6,rgbd,0.01493
+65,7,2d,0.013389
+65,8,3d object,0.012584
+65,9,shapes,0.012176
+65,10,3d shape,0.0119
+66,1,rough,0.106157
+66,2,rough sets,0.064707
+66,3,matroids,0.05617
+66,4,rough set,0.051759
+66,5,covering,0.051726
+66,6,matroid,0.042085
+66,7,sets,0.040272
+66,8,set theory,0.02869
+66,9,set,0.024678
+66,10,attribute reduction,0.023541
+67,1,matrix,0.065701
+67,2,matrix completion,0.045807
+67,3,completion,0.040273
+67,4,lowrank,0.036694
+67,5,lowrank matrix,0.023541
+67,6,rank,0.019221
+67,7,entries,0.016415
+67,8,matrices,0.014681
+67,9,minimization,0.01467
+67,10,recovery,0.014568
+68,1,boltzmann,0.033691
+68,2,generative,0.024047
+68,3,restricted boltzmann,0.023227
+68,4,rbm,0.022467
+68,5,boltzmann machines,0.020767
+68,6,boltzmann machine,0.017532
+68,7,restricted,0.017526
+68,8,deep,0.01609
+68,9,machines,0.015485
+68,10,distribution,0.014342
+69,1,eeg,0.046967
+69,2,brain,0.03159
+69,3,fmri,0.023534
+69,4,bci,0.015835
+69,5,functional,0.013263
+69,6,decoding,0.011813
+69,7,eeg data,0.011609
+69,8,voxel,0.011553
+69,9,signal,0.011378
+69,10,data,0.010631
+70,1,temporal,0.032821
+70,2,events,0.023899
+70,3,clinical,0.020864
+70,4,extraction,0.019309
+70,5,event,0.018759
+70,6,text,0.015287
+70,7,medical,0.01216
+70,8,information,0.012084
+70,9,relation,0.012051
+70,10,expressions,0.011171
+71,1,anomaly,0.049536
+71,2,anomaly detection,0.039861
+71,3,detection,0.034235
+71,4,outlier,0.031388
+71,5,outliers,0.026723
+71,6,anomalies,0.025242
+71,7,outlier detection,0.023538
+71,8,data,0.015132
+71,9,anomalous,0.012932
+71,10,detect,0.012592
+72,1,autoencoders,0.039029
+72,2,autoencoder,0.03256
+72,3,deep,0.020692
+72,4,denoising,0.017123
+72,5,unsupervised,0.014306
+72,6,clustering,0.013788
+72,7,sparse,0.013472
+72,8,learning,0.012911
+72,9,denoising autoencoders,0.012241
+72,10,deep learning,0.011512
+73,1,translation,0.092594
+73,2,machine translation,0.066553
+73,3,machine,0.040092
+73,4,statistical machine,0.033654
+73,5,mt,0.032237
+73,6,language,0.025865
+73,7,translations,0.021844
+73,8,statistical,0.02088
+73,9,evaluation,0.020773
+73,10,reordering,0.018963
+74,1,classifier,0.021173
+74,2,cost,0.017211
+74,3,roc,0.017184
+74,4,measures,0.016812
+74,5,classifiers,0.015782
+74,6,auc,0.015236
+74,7,multiclass,0.014624
+74,8,classification,0.01425
+74,9,performance,0.013381
+74,10,error,0.012347
+75,1,facial,0.092867
+75,2,expression,0.062315
+75,3,facial expression,0.05294
+75,4,expression recognition,0.037489
+75,5,expressions,0.036754
+75,6,facial expressions,0.028063
+75,7,recognition,0.023243
+75,8,spontaneous,0.019368
+75,9,face,0.017003
+75,10,emotions,0.016926
+76,1,svm,0.045546
+76,2,svms,0.030759
+76,3,support vector,0.029776
+76,4,support,0.0286
+76,5,margin,0.026236
+76,6,vector,0.023451
+76,7,vector machines,0.019896
+76,8,mcm,0.016495
+76,9,machines,0.016352
+76,10,vc dimension,0.016234
+77,1,summarization,0.10069
+77,2,summaries,0.032497
+77,3,multidocument,0.030591
+77,4,document,0.027654
+77,5,summary,0.025778
+77,6,multidocument summarization,0.022708
+77,7,sentences,0.020966
+77,8,text,0.019463
+77,9,text summarization,0.019183
+77,10,sentence,0.018806
+78,1,kernel,0.050295
+78,2,multitask,0.039629
+78,3,kernel learning,0.029337
+78,4,kernels,0.026329
+78,5,multiple kernel,0.024001
+78,6,multitask learning,0.023111
+78,7,learning,0.021987
+78,8,multiple,0.016162
+78,9,regression,0.015481
+78,10,mtl,0.014833
+79,1,influence,0.105483
+79,2,influence diagrams,0.090663
+79,3,diagrams,0.085437
+79,4,diagram,0.066079
+79,5,influence diagram,0.057712
+79,6,decision,0.038415
+79,7,value,0.019128
+79,8,decision problems,0.017955
+79,9,solving,0.014033
+79,10,sensitivity,0.01369
+80,1,privacy,0.068121
+80,2,private,0.045832
+80,3,differential privacy,0.034109
+80,4,differentially,0.027452
+80,5,differential,0.027026
+80,6,differentially private,0.026594
+80,7,data,0.016432
+80,8,queries,0.014297
+80,9,privacypreserving,0.013362
+80,10,adaptive data,0.011049
+81,1,immune,0.077015
+81,2,intrusion,0.043891
+81,3,dca,0.043575
+81,4,dendritic,0.041619
+81,5,intrusion detection,0.039678
+81,6,artificial immune,0.03617
+81,7,immune systems,0.033392
+81,8,detection,0.030376
+81,9,anomaly,0.025851
+81,10,cells,0.024214
+82,1,diagnosis,0.053374
+82,2,diagnostic,0.034502
+82,3,fault,0.027927
+82,4,repair,0.020136
+82,5,failure,0.01867
+82,6,faults,0.017966
+82,7,diagnoses,0.017323
+82,8,modelbased diagnosis,0.016334
+82,9,modelbased,0.013851
+82,10,probabilities,0.013165
+83,1,color,0.063951
+83,2,image,0.029689
+83,3,image quality,0.029166
+83,4,quality,0.026526
+83,5,quality assessment,0.022198
+83,6,image enhancement,0.018933
+83,7,perceptual,0.018393
+83,8,assessment,0.017409
+83,9,enhancement,0.017016
+83,10,images,0.014919
+84,1,functions,0.02395
+84,2,pac,0.023039
+84,3,learning,0.023011
+84,4,vc,0.021648
+84,5,queries,0.019401
+84,6,dnf,0.019318
+84,7,agnostic,0.018079
+84,8,classes,0.0172
+84,9,class,0.017165
+84,10,vc dimension,0.017072
+85,1,video,0.032453
+85,2,frames,0.017679
+85,3,videos,0.015806
+85,4,motion,0.012647
+85,5,visual,0.011714
+85,6,prediction,0.011591
+85,7,temporal,0.011104
+85,8,deep,0.011037
+85,9,spatiotemporal,0.00996
+85,10,future,0.009872
+86,1,voting,0.052772
+86,2,manipulation,0.050673
+86,3,voting rules,0.039786
+86,4,coalition,0.038444
+86,5,election,0.030366
+86,6,rules,0.030198
+86,7,agents,0.029935
+86,8,votes,0.028797
+86,9,elections,0.025654
+86,10,manipulate,0.021754
+87,1,text,0.059259
+87,2,scene text,0.031861
+87,3,text detection,0.023831
+87,4,scene,0.021844
+87,5,text recognition,0.020942
+87,6,character,0.020756
+87,7,recognition,0.017892
+87,8,icdar,0.016306
+87,9,images,0.013748
+87,10,word,0.012444
+88,1,argumentation,0.127707
+88,2,arguments,0.064405
+88,3,abstract argumentation,0.048761
+88,4,semantics,0.048603
+88,5,abstract,0.040533
+88,6,argumentation frameworks,0.036447
+88,7,frameworks,0.035645
+88,8,argument,0.026224
+88,9,extensions,0.024739
+88,10,dungs,0.021174
+89,1,traffic,0.072848
+89,2,road,0.051864
+89,3,vehicle,0.045313
+89,4,vehicles,0.026695
+89,5,detection,0.026626
+89,6,lanes,0.017615
+89,7,traffic control,0.014611
+89,8,signs,0.014442
+89,9,speed,0.013447
+89,10,control,0.012727
+90,1,uncertainty,0.043843
+90,2,possibility,0.041793
+90,3,utility,0.033001
+90,4,probability,0.031723
+90,5,theory,0.027689
+90,6,possibility theory,0.026863
+90,7,decision,0.025183
+90,8,qualitative,0.02445
+90,9,expected utility,0.024122
+90,10,possibilistic,0.01919
+91,1,annotation,0.052232
+91,2,formats,0.033364
+91,3,tools,0.033147
+91,4,language,0.032848
+91,5,xml,0.026046
+91,6,linguistic,0.02523
+91,7,annotations,0.023746
+91,8,resources,0.022998
+91,9,language resources,0.021107
+91,10,tei,0.02029
+92,1,tagger,0.067388
+92,2,tagging,0.063116
+92,3,pos,0.040975
+92,4,taggers,0.035616
+92,5,partofspeech,0.03034
+92,6,pos tagging,0.023752
+92,7,partofspeech tagging,0.017483
+92,8,nlp,0.016342
+92,9,speech,0.016069
+92,10,words,0.014097
+93,1,style,0.037041
+93,2,generative,0.031931
+93,3,adversarial,0.021971
+93,4,color,0.020979
+93,5,colorization,0.020056
+93,6,style transfer,0.01991
+93,7,generative adversarial,0.018663
+93,8,images,0.018523
+93,9,texture,0.017544
+93,10,transfer,0.01734
+94,1,sequence,0.041555
+94,2,prediction,0.039741
+94,3,computable,0.03968
+94,4,universal,0.035238
+94,5,sequence prediction,0.031515
+94,6,mdl,0.023607
+94,7,sequences,0.022452
+94,8,complexity,0.021312
+94,9,kolmogorov complexity,0.018309
+94,10,kolmogorov,0.018088
+95,1,registration,0.096106
+95,2,image registration,0.051424
+95,3,image,0.023933
+95,4,deformation,0.019293
+95,5,images,0.017007
+95,6,intensity,0.01518
+95,7,transformation,0.012982
+95,8,mesh,0.012079
+95,9,local,0.011758
+95,10,nonrigid,0.010926
+96,1,time series,0.076563
+96,2,series,0.068715
+96,3,time,0.042555
+96,4,timeseries,0.035341
+96,5,motifs,0.029333
+96,6,series classification,0.026096
+96,7,motif,0.023787
+96,8,shapelets,0.019285
+96,9,dtw,0.018989
+96,10,dynamic time,0.015975
+97,1,translation,0.095166
+97,2,machine translation,0.067508
+97,3,neural machine,0.058196
+97,4,nmt,0.039832
+97,5,neural,0.0392
+97,6,machine,0.037181
+97,7,bleu,0.035262
+97,8,encoderdecoder,0.021439
+97,9,phrasebased,0.020624
+97,10,attentionbased,0.019471
+98,1,scheduling,0.031295
+98,2,search,0.026228
+98,3,problem,0.023018
+98,4,timetabling,0.022721
+98,5,tabu,0.02004
+98,6,tabu search,0.019438
+98,7,solution,0.018079
+98,8,bin,0.017948
+98,9,course,0.017465
+98,10,problems,0.014844
+99,1,3d,0.022134
+99,2,matching,0.015658
+99,3,point,0.01429
+99,4,pose,0.013809
+99,5,registration,0.013601
+99,6,2d,0.011261
+99,7,object,0.011191
+99,8,estimation,0.010867
+99,9,rigid,0.010797
+99,10,view,0.010501
+100,1,crowdsourcing,0.061982
+100,2,workers,0.042503
+100,3,labels,0.023319
+100,4,worker,0.022269
+100,5,crowd,0.017102
+100,6,crowdsourced,0.016393
+100,7,labeling,0.01584
+100,8,task,0.015289
+100,9,answers,0.013023
+100,10,tasks,0.01287
+101,1,sign,0.055741
+101,2,sign language,0.054728
+101,3,gesture,0.048561
+101,4,hand,0.046968
+101,5,gestures,0.041814
+101,6,gesture recognition,0.027664
+101,7,hand gesture,0.02487
+101,8,recognition,0.022102
+101,9,language,0.021873
+101,10,signs,0.017043
+102,1,superresolution,0.054148
+102,2,sr,0.037936
+102,3,resolution,0.035197
+102,4,super resolution,0.030626
+102,5,image superresolution,0.03
+102,6,image,0.029528
+102,7,super,0.029504
+102,8,lowresolution,0.018158
+102,9,images,0.016412
+102,10,highresolution,0.016315
+103,1,reidentification,0.08327
+103,2,person,0.077182
+103,3,person reidentification,0.075472
+103,4,matching,0.020543
+103,5,metric,0.019062
+103,6,reid,0.018557
+103,7,camera views,0.014563
+103,8,metric learning,0.014397
+103,9,appearance,0.014018
+103,10,camera,0.01373
+104,1,tags,0.040899
+104,2,tag,0.026761
+104,3,image,0.021511
+104,4,annotation,0.020601
+104,5,image annotation,0.01939
+104,6,metadata,0.015305
+104,7,visual,0.014045
+104,8,retrieval,0.012314
+104,9,images,0.011422
+104,10,social,0.010471
+105,1,nonmonotonic,0.047294
+105,2,logic,0.04169
+105,3,logics,0.032584
+105,4,default,0.029107
+105,5,preferential,0.028912
+105,6,reasoning,0.028533
+105,7,semantics,0.027898
+105,8,entailment,0.027609
+105,9,possibilistic,0.023879
+105,10,conditional,0.020222
+106,1,pca,0.067479
+106,2,principal,0.038003
+106,3,principal component,0.033144
+106,4,component analysis,0.030404
+106,5,component,0.026759
+106,6,robust,0.019994
+106,7,sparse,0.019855
+106,8,sparse pca,0.018908
+106,9,robust pca,0.018326
+106,10,rank,0.017403
+107,1,manifold,0.052085
+107,2,manifolds,0.043417
+107,3,spd,0.037818
+107,4,riemannian,0.037556
+107,5,spd matrices,0.029338
+107,6,positive definite,0.028543
+107,7,definite,0.028104
+107,8,matrices,0.022495
+107,9,kernel,0.021159
+107,10,positive,0.020678
+108,1,proofs,0.069498
+108,2,proof,0.068601
+108,3,automated,0.048507
+108,4,mathematical,0.037308
+108,5,automated reasoning,0.036991
+108,6,theorem,0.036277
+108,7,hol,0.03411
+108,8,proving,0.032838
+108,9,mizar,0.031082
+108,10,lemmas,0.027698
+109,1,gaussian,0.043524
+109,2,gp,0.038842
+109,3,gaussian process,0.036295
+109,4,gaussian processes,0.031883
+109,5,regression,0.020641
+109,6,processes,0.017873
+109,7,gps,0.017779
+109,8,process,0.017699
+109,9,covariance,0.015824
+109,10,sparse,0.014835
+110,1,ranking,0.075755
+110,2,rank,0.030095
+110,3,pairwise comparisons,0.025588
+110,4,comparisons,0.024201
+110,5,pairwise,0.024114
+110,6,rankings,0.022328
+110,7,ndcg,0.021721
+110,8,items,0.019309
+110,9,learning rank,0.017862
+110,10,rank aggregation,0.01779
+111,1,boosting,0.088944
+111,2,adaboost,0.049468
+111,3,multiclass,0.039939
+111,4,boosting algorithms,0.030017
+111,5,margin,0.029831
+111,6,multiclass boosting,0.026318
+111,7,weak,0.023372
+111,8,multiclass classification,0.020936
+111,9,generalization,0.016144
+111,10,algorithms,0.014764
+112,1,background,0.071931
+112,2,foreground,0.03734
+112,3,subtraction,0.035436
+112,4,background subtraction,0.034116
+112,5,video,0.031577
+112,6,moving,0.025451
+112,7,objects,0.018664
+112,8,foreground objects,0.016745
+112,9,moving objects,0.01611
+112,10,background modeling,0.014126
+113,1,radio,0.035177
+113,2,allocation,0.024904
+113,3,channel,0.024871
+113,4,users,0.023751
+113,5,cognitive radio,0.020142
+113,6,stochastic,0.018878
+113,7,wireless,0.017203
+113,8,distributive,0.016703
+113,9,resource,0.015343
+113,10,spectrum,0.015173
+114,1,answering,0.060552
+114,2,question,0.06041
+114,3,question answering,0.051835
+114,4,visual question,0.04376
+114,5,questions,0.042281
+114,6,vqa,0.039293
+114,7,visual,0.038884
+114,8,answer,0.022947
+114,9,image,0.021118
+114,10,answers,0.019063
+115,1,patients,0.046551
+115,2,clinical,0.035318
+115,3,drug,0.030079
+115,4,patient,0.026539
+115,5,health,0.025314
+115,6,medical,0.021408
+115,7,electronic,0.016986
+115,8,electronic health,0.016367
+115,9,healthcare,0.016114
+115,10,adverse,0.015216
+116,1,zeroshot,0.089491
+116,2,zeroshot learning,0.066613
+116,3,semantic,0.029142
+116,4,unseen,0.027172
+116,5,classes,0.026459
+116,6,unseen classes,0.02297
+116,7,embedding,0.022469
+116,8,attributes,0.018014
+116,9,visual,0.017665
+116,10,zsl,0.016379
+117,1,unlabeled,0.045323
+117,2,semisupervised,0.039482
+117,3,unlabeled data,0.035933
+117,4,semisupervised learning,0.027372
+117,5,labeled,0.023472
+117,6,data,0.019216
+117,7,learning,0.016032
+117,8,classification,0.014552
+117,9,supervised,0.013664
+117,10,semisupervised classification,0.01326
+118,1,preference,0.070432
+118,2,preferences,0.05857
+118,3,elicitation,0.054844
+118,4,utility,0.045998
+118,5,cpnets,0.039174
+118,6,preference elicitation,0.026342
+118,7,dominance,0.024637
+118,8,qualitative,0.019354
+118,9,decision,0.018897
+118,10,user,0.016578
+119,1,ensemble,0.091438
+119,2,diversity,0.049445
+119,3,classifiers,0.048357
+119,4,ensembles,0.032202
+119,5,classifier,0.027983
+119,6,ensemble learning,0.021802
+119,7,ensemble classifiers,0.017633
+119,8,stacked generalization,0.015611
+119,9,ensemble selection,0.014822
+119,10,ensemble methods,0.014492
+120,1,reflectance,0.076548
+120,2,surface,0.031844
+120,3,light,0.025171
+120,4,illumination,0.02109
+120,5,range,0.020973
+120,6,specular,0.020351
+120,7,stereo,0.01893
+120,8,underwater,0.018861
+120,9,photometric,0.017867
+120,10,dynamic range,0.017449
+121,1,hidden,0.056445
+121,2,hidden markov,0.052737
+121,3,hmms,0.047854
+121,4,markov,0.041772
+121,5,markov models,0.040568
+121,6,hmm,0.038217
+121,7,markov model,0.019625
+121,8,models,0.01795
+121,9,state,0.017694
+121,10,states,0.017348
+122,1,multilabel,0.081892
+122,2,multilabel classification,0.04449
+122,3,label,0.037263
+122,4,labels,0.03367
+122,5,multilabel learning,0.020576
+122,6,classification,0.016238
+122,7,output,0.014561
+122,8,classifier,0.010507
+122,9,selfpaced,0.010346
+122,10,multitarget,0.010072
+123,1,user,0.034441
+123,2,recommendation,0.028999
+123,3,feedback,0.025216
+123,4,items,0.025
+123,5,bandits,0.023551
+123,6,bandit,0.023143
+123,7,users,0.022245
+123,8,ranking,0.015604
+123,9,contextual,0.014308
+123,10,search,0.014068
+124,1,music,0.082043
+124,2,musical,0.046025
+124,3,composition,0.018776
+124,4,recurrent,0.017758
+124,5,model,0.017633
+124,6,tempo,0.016005
+124,7,audio,0.015051
+124,8,song,0.014946
+124,9,recurrent neural,0.014921
+124,10,sequences,0.014847
+125,1,quantum,0.153225
+125,2,concepts,0.03539
+125,3,quantum theory,0.031865
+125,4,cognition,0.031784
+125,5,theory,0.028312
+125,6,entanglement,0.026931
+125,7,thought,0.026577
+125,8,conceptual,0.024005
+125,9,classical,0.023255
+125,10,interference,0.022219
+126,1,binarization,0.052492
+126,2,text,0.050646
+126,3,document,0.022514
+126,4,images,0.022016
+126,5,document image,0.020141
+126,6,text localization,0.019594
+126,7,thresholding,0.019552
+126,8,background,0.016794
+126,9,coins,0.016178
+126,10,image,0.015998
+127,1,auctions,0.050935
+127,2,auction,0.030207
+127,3,price,0.026113
+127,4,bidding,0.025041
+127,5,advertising,0.024271
+127,6,revenue,0.023058
+127,7,market,0.022287
+127,8,markets,0.021416
+127,9,prices,0.019054
+127,10,sellers,0.016461
+128,1,mining,0.064348
+128,2,patterns,0.062859
+128,3,frequent,0.061405
+128,4,pattern,0.049923
+128,5,pattern mining,0.041332
+128,6,episodes,0.020668
+128,7,constraint,0.020473
+128,8,sequential,0.020272
+128,9,sequential patterns,0.019882
+128,10,frequent patterns,0.019102
+129,1,visual,0.036257
+129,2,object recognition,0.025956
+129,3,retina,0.022471
+129,4,recognition,0.01796
+129,5,vision,0.01738
+129,6,object,0.016665
+129,7,temporal,0.015076
+129,8,coder,0.014465
+129,9,receptive,0.014222
+129,10,biologically,0.014134
+130,1,translation,0.058451
+130,2,corpora,0.049051
+130,3,parallel,0.047916
+130,4,comparable corpora,0.042669
+130,5,bilingual,0.03942
+130,6,comparable,0.03305
+130,7,crosslanguage,0.024796
+130,8,translations,0.022563
+130,9,parallel corpora,0.021981
+130,10,comparability,0.021543
+131,1,manifold,0.054047
+131,2,manifold learning,0.047185
+131,3,laplacian,0.025361
+131,4,semisupervised,0.021151
+131,5,embedding,0.017063
+131,6,data,0.015979
+131,7,learning,0.015866
+131,8,manifolds,0.015099
+131,9,graph,0.014351
+131,10,graph laplacian,0.013969
+132,1,graph,0.040628
+132,2,semisupervised learning,0.035076
+132,3,semisupervised,0.034164
+132,4,constraint propagation,0.026152
+132,5,propagation,0.022682
+132,6,label,0.020262
+132,7,graphs,0.019535
+132,8,graphbased,0.018576
+132,9,pairwise,0.018203
+132,10,pairwise constraint,0.016016
+133,1,pedestrian,0.097927
+133,2,pedestrian detection,0.062655
+133,3,detection,0.033293
+133,4,caltech,0.0271
+133,5,features,0.022287
+133,6,attribute recognition,0.0148
+133,7,dataset,0.013766
+133,8,pedestrians,0.013578
+133,9,attribute,0.013253
+133,10,channel features,0.013155
